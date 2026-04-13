@@ -3,50 +3,7 @@
   import AppCard from './components/AppCard.svelte';
   import CategorySection from './components/CategorySection.svelte';
 
-  const categories = [
-    {
-      name: 'PRODUCTIVITY',
-      apps: [
-        { name: 'Gmail', desc: 'Mail', icon: 'mail', color: 'text-red-500' },
-        { name: 'Google Drive', desc: 'Storage', icon: 'hard-drive', color: 'text-blue-500' },
-        { name: 'Notion', desc: 'Workspace', icon: 'book', color: 'text-white' },
-        { name: 'Trello', desc: 'Tasks', icon: 'trello', color: 'text-blue-400' },
-        { name: 'Slack', desc: 'Team Chat', icon: 'slack', color: 'text-purple-500' },
-        { name: 'Slack', desc: 'Team communication platform', icon: 'slack', color: 'text-purple-500' },
-      ]
-    },
-    {
-      name: 'CREATIVE',
-      apps: [
-        { name: 'Adobe Photoshop', desc: 'Photo Editor', icon: 'image', color: 'text-blue-600' },
-        { name: 'Figma', desc: 'Design Tool', icon: 'figma', color: 'text-orange-500' },
-        { name: 'Canva', desc: 'Graphics', icon: 'palette', color: 'text-cyan-400' },
-        { name: 'Wattpad', desc: 'Promincins', icon: 'book-open', color: 'text-orange-600' },
-        { name: 'Spotify', desc: 'Music', icon: 'music', color: 'text-green-500' },
-        { name: 'YouTube', desc: 'Video', icon: 'youtube', color: 'text-red-600' },
-      ]
-    },
-    {
-      name: 'DEVELOPER TOOLS',
-      apps: [
-        { name: 'GitHub', desc: 'Code', icon: 'github', color: 'text-white' },
-        { name: 'VS Code', desc: 'Code editor', icon: 'code', color: 'text-blue-500' },
-        { name: 'Vercel', desc: 'Deploy', icon: 'triangle', color: 'text-white' },
-        { name: 'Terminal', desc: 'Command line', icon: 'terminal', color: 'text-green-400' },
-        { name: 'AWS', desc: 'Cloud', icon: 'cloud', color: 'text-orange-400' },
-      ]
-    },
-    {
-      name: 'COMMUNICATION',
-      apps: [
-        { name: 'Zoom', desc: 'Team communication Meetings', icon: 'video', color: 'text-blue-500' },
-        { name: 'Google Meet', desc: 'Video camera platform', icon: 'video', color: 'text-green-500' },
-        { name: 'Teams', desc: 'Microsoft Sunsoet Teams', icon: 'users', color: 'text-blue-600' },
-        { name: 'Discord', desc: 'Teams communication platform', icon: 'message-square', color: 'text-indigo-500' },
-        { name: 'WhatsApp', desc: 'Chat communication platform', icon: 'message-circle', color: 'text-green-500' },
-      ]
-    }
-  ];
+  import categories from './data.json';
 </script>
 
 <div class="min-h-screen bg-black text-white font-sans selection:bg-white/20">

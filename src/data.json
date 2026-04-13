@@ -1,0 +1,2424 @@
+[
+    {
+        "name": "ASSISTANTS & CHATBOTS",
+        "apps": [
+            {
+                "name": "ChatGPT",
+                "desc": "Le leader d'OpenAI (GPT-4o/5)",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "MultiUsage",
+                    "Productivité"
+                ]
+            },
+            {
+                "name": "Claude",
+                "desc": "Anthropic, excellent pour la rédaction et le code",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Éthique",
+                    "Rédaction"
+                ]
+            },
+            {
+                "name": "Gemini",
+                "desc": "L'IA multimodale de Google",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Google",
+                    "Multimodal"
+                ]
+            },
+            {
+                "name": "Grok",
+                "desc": "L'IA conversationnelle de xAI (Elon Musk)",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "TempsRéel",
+                    "X"
+                ]
+            },
+            {
+                "name": "Perplexity",
+                "desc": "Moteur de recherche assisté par IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Recherche",
+                    "Sources"
+                ]
+            },
+            {
+                "name": "Poe",
+                "desc": "Agrégateur de chatbots (Quora)",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "MultiBot",
+                    "Mobile"
+                ]
+            },
+            {
+                "name": "Mistral",
+                "desc": "L'alternative française haute performance",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "OpenSource",
+                    "Europe"
+                ]
+            },
+            {
+                "name": "Character.ai",
+                "desc": "Discussion avec des personnages fictifs",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Divertissement",
+                    "Roleplay"
+                ]
+            },
+            {
+                "name": "Pi",
+                "desc": "Assistant personnel empathique",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "BienÊtre",
+                    "Coach"
+                ]
+            },
+            {
+                "name": "HuggingChat",
+                "desc": "Version open-source par Hugging Face",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Communauté",
+                    "Tech"
+                ]
+            },
+            {
+                "name": "DeepSeek",
+                "desc": "IA chinoise performante en math/code",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Maths",
+                    "Code"
+                ]
+            },
+            {
+                "name": "You.com",
+                "desc": "Moteur de recherche et chat personnalisé",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Recherche",
+                    "Agents"
+                ]
+            },
+            {
+                "name": "Arc Search",
+                "desc": "Navigateur qui résume le web",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Mobile",
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "Microsoft Copilot",
+                "desc": "Assistant intégré à Windows et Office",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Microsoft",
+                    "Work"
+                ]
+            },
+            {
+                "name": "Kimi",
+                "desc": "IA optimisée pour les longs contextes",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "LongFormat",
+                    "Analyse"
+                ]
+            },
+            {
+                "name": "DuckDuckGo AI",
+                "desc": "Chat anonyme et privé",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Confidentialité",
+                    "Privacy"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "IMAGES & DESIGN",
+        "apps": [
+            {
+                "name": "Midjourney",
+                "desc": "La référence pour le photoréalisme",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Art",
+                    "Design"
+                ]
+            },
+            {
+                "name": "DALL-E 3",
+                "desc": "Générateur intégré à ChatGPT",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Simple",
+                    "OpenAI"
+                ]
+            },
+            {
+                "name": "Stable Diffusion",
+                "desc": "Générateur d'images open-source",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Libre",
+                    "Local"
+                ]
+            },
+            {
+                "name": "Adobe Firefly",
+                "desc": "IA générative pour Photoshop/Illustrator",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Professionnel",
+                    "CreativeCloud"
+                ]
+            },
+            {
+                "name": "Canva Magic Design",
+                "desc": "Création de visuels réseaux sociaux",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Marketing",
+                    "Simple"
+                ]
+            },
+            {
+                "name": "Leonardo.ai",
+                "desc": "Plateforme complète pour artistes",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Gaming",
+                    "Assets"
+                ]
+            },
+            {
+                "name": "Recraft",
+                "desc": "Génération de vecteurs et d'icônes",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Vectoriel",
+                    "Design"
+                ]
+            },
+            {
+                "name": "Magnific AI",
+                "desc": "Upscaler et rehausseur de détails",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Retouche",
+                    "HD"
+                ]
+            },
+            {
+                "name": "Krea.ai",
+                "desc": "Génération d'images en temps réel",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Live",
+                    "Design"
+                ]
+            },
+            {
+                "name": "Looka",
+                "desc": "Création de logos et branding",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Branding",
+                    "Business"
+                ]
+            },
+            {
+                "name": "Photoroom",
+                "desc": "Suppression d'arrière-plan",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Ecommerce",
+                    "Mobile"
+                ]
+            },
+            {
+                "name": "Civitai",
+                "desc": "Bibliothèque de modèles Stable Diffusion",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Communauté",
+                    "Models"
+                ]
+            },
+            {
+                "name": "Flair.ai",
+                "desc": "Photographie de produit assistée par IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Ecommerce",
+                    "Marketing"
+                ]
+            },
+            {
+                "name": "Uizard",
+                "desc": "Design d'interfaces UI/UX",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "WebDesign",
+                    "Prototypage"
+                ]
+            },
+            {
+                "name": "Vectary",
+                "desc": "Création de contenu 3D",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "3D",
+                    "Design"
+                ]
+            },
+            {
+                "name": "Pixlr AI",
+                "desc": "Éditeur de photos en ligne",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Retouche",
+                    "Web"
+                ]
+            },
+            {
+                "name": "ClipDrop",
+                "desc": "Outils d'édition d'image par Stability AI",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Editing",
+                    "Tools"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "VIDÉO & ANIMATION",
+        "apps": [
+            {
+                "name": "Sora",
+                "desc": "Le futur de la vidéo ultra-réaliste (OpenAI)",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Cinéma",
+                    "TextToVideo"
+                ]
+            },
+            {
+                "name": "Runway Gen-3",
+                "desc": "Édition vidéo pro et génération",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "VFX",
+                    "Pro"
+                ]
+            },
+            {
+                "name": "Luma Dream Machine",
+                "desc": "Générateur vidéo fluide et rapide",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Gratuit",
+                    "Rapide"
+                ]
+            },
+            {
+                "name": "Kling AI",
+                "desc": "Générateur vidéo haute fidélité",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Réalisme",
+                    "Video"
+                ]
+            },
+            {
+                "name": "HeyGen",
+                "desc": "Création d'avatars parlants réalistes",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Marketing",
+                    "Avatar"
+                ]
+            },
+            {
+                "name": "Synthesia",
+                "desc": "Présentations professionnelles avec avatars",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Formation",
+                    "Corporate"
+                ]
+            },
+            {
+                "name": "InVideo AI",
+                "desc": "Création de vidéos par texte",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "YouTube",
+                    "Simple"
+                ]
+            },
+            {
+                "name": "Pika Labs",
+                "desc": "Animation d'images et vidéos",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Créatif",
+                    "Discord"
+                ]
+            },
+            {
+                "name": "CapCut AI",
+                "desc": "Montage vidéo automatisé",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "TikTok",
+                    "SocialMedia"
+                ]
+            },
+            {
+                "name": "Descript",
+                "desc": "Montage vidéo via l'édition du texte",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Podcast",
+                    "Transcript"
+                ]
+            },
+            {
+                "name": "Wonder Dynamics",
+                "desc": "Intégration de persos 3D",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "CGI",
+                    "VFX"
+                ]
+            },
+            {
+                "name": "Kaiber",
+                "desc": "Animation artistique de musique",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "ClipVidéo",
+                    "Art"
+                ]
+            },
+            {
+                "name": "Veed.io",
+                "desc": "Suite de montage vidéo en ligne",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Social",
+                    "Subtitles"
+                ]
+            },
+            {
+                "name": "Sieve",
+                "desc": "Infrastructure vidéo intelligente",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Dev",
+                    "VideoAPI"
+                ]
+            },
+            {
+                "name": "Colossyan",
+                "desc": "Vidéos de formation avec acteurs IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "HR",
+                    "Training"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "AUDIO & MUSIQUE",
+        "apps": [
+            {
+                "name": "Suno",
+                "desc": "Génération de chansons complètes",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Musique",
+                    "Créativité"
+                ]
+            },
+            {
+                "name": "Udio",
+                "desc": "Haute fidélité musicale et vocale",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Musique",
+                    "Pro"
+                ]
+            },
+            {
+                "name": "ElevenLabs",
+                "desc": "Le meilleur clonage de voix",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Dubbing",
+                    "Voice"
+                ]
+            },
+            {
+                "name": "Spleeter",
+                "desc": "Séparation des pistes audio",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "DJ",
+                    "Production"
+                ]
+            },
+            {
+                "name": "Adobe Podcast",
+                "desc": "Amélioration audio professionnelle",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Audio",
+                    "Podcast"
+                ]
+            },
+            {
+                "name": "AIVA",
+                "desc": "Composition musicale orchestrale",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Cinéma",
+                    "Compo"
+                ]
+            },
+            {
+                "name": "Murf.ai",
+                "desc": "Voix off naturelles",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Elearning",
+                    "Business"
+                ]
+            },
+            {
+                "name": "Speechify",
+                "desc": "Lecture de textes par IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Accessibilité"
+                ]
+            },
+            {
+                "name": "Soundraw",
+                "desc": "Musique libre de droits personnalisable",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Creators"
+                ]
+            },
+            {
+                "name": "Boomy",
+                "desc": "Création et publication de musique",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Streaming"
+                ]
+            },
+            {
+                "name": "LALAL.AI",
+                "desc": "Extraction de voix et d'instruments",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Audio",
+                    "Remix"
+                ]
+            },
+            {
+                "name": "Voiser",
+                "desc": "Synthèse vocale et transcription",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "TTS",
+                    "STT"
+                ]
+            },
+            {
+                "name": "Voicify.ai",
+                "desc": "Création de covers avec voix célèbres",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Fun",
+                    "Music"
+                ]
+            },
+            {
+                "name": "Soundful",
+                "desc": "Génération de musique libre de droits",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Producer",
+                    "SaaS"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "DÉVELOPPEMENT & CODE",
+        "apps": [
+            {
+                "name": "Cursor",
+                "desc": "L'éditeur de code IA (Fork VS Code)",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "IDE",
+                    "Code"
+                ]
+            },
+            {
+                "name": "GitHub Copilot",
+                "desc": "L'assistant standard pour développeurs",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "VSCode",
+                    "Dev"
+                ]
+            },
+            {
+                "name": "Replit Agent",
+                "desc": "Crée des applications complètes seul",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "App",
+                    "Deployment"
+                ]
+            },
+            {
+                "name": "Lovable",
+                "desc": "Développement web en langage naturel",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "NoCode",
+                    "SaaS"
+                ]
+            },
+            {
+                "name": "Windsurf",
+                "desc": "IDE intelligent par Codeium",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Productivité",
+                    "Dev"
+                ]
+            },
+            {
+                "name": "V0.dev",
+                "desc": "Génération d'interfaces UI (Next.js)",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Frontend",
+                    "Design"
+                ]
+            },
+            {
+                "name": "Bolt.new",
+                "desc": "Création d'apps web full-stack",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "StackBlitz",
+                    "Web"
+                ]
+            },
+            {
+                "name": "Phind",
+                "desc": "Moteur de recherche pour développeurs",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Search",
+                    "Documentation"
+                ]
+            },
+            {
+                "name": "Codeium",
+                "desc": "Alternative gratuite à Copilot",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Extension",
+                    "Gratuit"
+                ]
+            },
+            {
+                "name": "Tabnine",
+                "desc": "Assistant de code privé et sécurisé",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Enterprise",
+                    "Code"
+                ]
+            },
+            {
+                "name": "Anima",
+                "desc": "Conversion Figma en code",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Design2Code"
+                ]
+            },
+            {
+                "name": "Blackbox AI",
+                "desc": "Copier du code depuis des vidéos",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "OCR",
+                    "Dev"
+                ]
+            },
+            {
+                "name": "Sourcegraph Cody",
+                "desc": "IA pour comprendre les gros dépôts",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Search",
+                    "Context"
+                ]
+            },
+            {
+                "name": "Amazon Q",
+                "desc": "Assistant de développement par AWS",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "AWS",
+                    "Cloud"
+                ]
+            },
+            {
+                "name": "Mintlify",
+                "desc": "Documentation automatique du code",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Docs",
+                    "Writing"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "RÉDACTION & MARKETING",
+        "apps": [
+            {
+                "name": "Jasper",
+                "desc": "IA marketing pour les entreprises",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Business",
+                    "Copywriting"
+                ]
+            },
+            {
+                "name": "Copy.ai",
+                "desc": "Génération de posts sociaux",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Marketing",
+                    "SaaS"
+                ]
+            },
+            {
+                "name": "Writesonic",
+                "desc": "Rédaction d'articles SEO",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Blog",
+                    "SEO"
+                ]
+            },
+            {
+                "name": "Surfer SEO",
+                "desc": "Optimisation sémantique",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "SEO",
+                    "Content"
+                ]
+            },
+            {
+                "name": "Quillbot",
+                "desc": "Reformulation et correction",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Rédaction",
+                    "Études"
+                ]
+            },
+            {
+                "name": "Grammarly",
+                "desc": "Correction grammaticale et ton",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Email",
+                    "English"
+                ]
+            },
+            {
+                "name": "MerciApp",
+                "desc": "Correcteur français performant",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Français",
+                    "Rédaction"
+                ]
+            },
+            {
+                "name": "HypeFury",
+                "desc": "Automatisation pour X/Twitter",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "SocialMedia"
+                ]
+            },
+            {
+                "name": "Anyword",
+                "desc": "Prédiction de performance publicitaire",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Data",
+                    "Ads"
+                ]
+            },
+            {
+                "name": "Rytr",
+                "desc": "Assistant d'écriture abordable",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Simple",
+                    "Writing"
+                ]
+            },
+            {
+                "name": "Frase",
+                "desc": "Planification de contenu SEO",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "SEO",
+                    "Workflow"
+                ]
+            },
+            {
+                "name": "Wordtune",
+                "desc": "Amélioration du style d'écriture",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Editing"
+                ]
+            },
+            {
+                "name": "Hypotenuse AI",
+                "desc": "Génération de fiches produits",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Ecommerce"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "PRODUCTIVITÉ",
+        "apps": [
+            {
+                "name": "Notion AI",
+                "desc": "IA intégrée aux notes et projets",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Notes",
+                    "Collaboration"
+                ]
+            },
+            {
+                "name": "Otter.ai",
+                "desc": "Transcription et résumé de réunions",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Zoom",
+                    "Meetings"
+                ]
+            },
+            {
+                "name": "Fireflies.ai",
+                "desc": "Analyse les appels d'équipe",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Sales",
+                    "Workflow"
+                ]
+            },
+            {
+                "name": "Gamma",
+                "desc": "Création de présentations et sites",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Slides",
+                    "Design"
+                ]
+            },
+            {
+                "name": "Motion",
+                "desc": "Calendrier intelligent",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "TimeMgmt",
+                    "Planning"
+                ]
+            },
+            {
+                "name": "Zapier Central",
+                "desc": "IA pour automatisations",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Automation",
+                    "NoCode"
+                ]
+            },
+            {
+                "name": "Superhuman",
+                "desc": "Client mail ultra rapide",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Email",
+                    "Pro"
+                ]
+            },
+            {
+                "name": "Shortwave",
+                "desc": "IA pour Gmail",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Assistant",
+                    "Email"
+                ]
+            },
+            {
+                "name": "Tome",
+                "desc": "Storytelling et présentations",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Slides",
+                    "Creative"
+                ]
+            },
+            {
+                "name": "Rewind.ai",
+                "desc": "Moteur de recherche pour Mac/PC",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Memory"
+                ]
+            },
+            {
+                "name": "SaneBox",
+                "desc": "Gestion intelligente des emails",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "InboxZero"
+                ]
+            },
+            {
+                "name": "BeforeSunset",
+                "desc": "Planification de journée par IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "DailyPlanning"
+                ]
+            },
+            {
+                "name": "Fellow.app",
+                "desc": "Gestion de réunions et agendas",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Management"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "RECHERCHE & ÉDUCATION",
+        "apps": [
+            {
+                "name": "NotebookLM",
+                "desc": "Analyse de sources par Google",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Recherche",
+                    "Podcast"
+                ]
+            },
+            {
+                "name": "Elicit",
+                "desc": "Assistant de recherche scientifique",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Science",
+                    "Papers"
+                ]
+            },
+            {
+                "name": "Consensus",
+                "desc": "Recherche basée sur des preuves",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Science",
+                    "Evidence"
+                ]
+            },
+            {
+                "name": "ChatPDF",
+                "desc": "Discuter avec des fichiers PDF",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Analyse"
+                ]
+            },
+            {
+                "name": "Humata.ai",
+                "desc": "Analyse de documents techniques",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Data"
+                ]
+            },
+            {
+                "name": "ResearchRabbit",
+                "desc": "Cartographie d'articles scientifiques",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Bibliographies"
+                ]
+            },
+            {
+                "name": "Semantic Scholar",
+                "desc": "Moteur de recherche académique",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Database"
+                ]
+            },
+            {
+                "name": "Scite.ai",
+                "desc": "Vérification des citations",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Véracité"
+                ]
+            },
+            {
+                "name": "Scholarcy",
+                "desc": "Résumé d'articles complexes",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Reading"
+                ]
+            },
+            {
+                "name": "Khanmigo",
+                "desc": "Tuteur Khan Academy",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Education"
+                ]
+            },
+            {
+                "name": "Perplexity Pro",
+                "desc": "Recherche avancée et analyse",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Search",
+                    "Pro"
+                ]
+            },
+            {
+                "name": "Explainpaper",
+                "desc": "Explique les papiers complexes",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Learning"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "NO-CODE & WEB",
+        "apps": [
+            {
+                "name": "Framer AI",
+                "desc": "Génération de sites web design",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "WebDesign",
+                    "UI"
+                ]
+            },
+            {
+                "name": "10Web",
+                "desc": "Sites WordPress par IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "WordPress"
+                ]
+            },
+            {
+                "name": "Durable",
+                "desc": "Site pro en 30 secondes",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "PME",
+                    "Fast"
+                ]
+            },
+            {
+                "name": "Webflow AI",
+                "desc": "Assistant pour sites haut de gamme",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Pro"
+                ]
+            },
+            {
+                "name": "Softr",
+                "desc": "Apps depuis Airtable",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "NoCode"
+                ]
+            },
+            {
+                "name": "Bubble",
+                "desc": "Création d'apps web complexes",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Logiciel"
+                ]
+            },
+            {
+                "name": "Mixo",
+                "desc": "Lancement de landing pages",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Startup",
+                    "MVP"
+                ]
+            },
+            {
+                "name": "Butternut AI",
+                "desc": "Générateur de site instantané",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Web",
+                    "SEO"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "DIVERS",
+        "apps": [
+            {
+                "name": "Rosebud",
+                "desc": "Journal intime IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "BienEtre"
+                ]
+            },
+            {
+                "name": "Poised",
+                "desc": "Coach de communication",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Speaking"
+                ]
+            },
+            {
+                "name": "DoNotPay",
+                "desc": "L'avocat robot",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Legal"
+                ]
+            },
+            {
+                "name": "Replika",
+                "desc": "Compagnon virtuel",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Social"
+                ]
+            },
+            {
+                "name": "Warp",
+                "desc": "Terminal intelligent",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Dev"
+                ]
+            },
+            {
+                "name": "Tableau Pulse",
+                "desc": "Analyse de données business",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Data"
+                ]
+            },
+            {
+                "name": "Snooze",
+                "desc": "Optimisation du sommeil",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Santé"
+                ]
+            },
+            {
+                "name": "PlantIn",
+                "desc": "Identification des plantes",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Nature"
+                ]
+            },
+            {
+                "name": "Yoodli",
+                "desc": "Analyse d'élocution",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "SoftSkills"
+                ]
+            },
+            {
+                "name": "Glean",
+                "desc": "Recherche interne entreprise",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Enterprise"
+                ]
+            },
+            {
+                "name": "Jan",
+                "desc": "IA locale et privée",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Privacy",
+                    "Local"
+                ]
+            },
+            {
+                "name": "LM Studio",
+                "desc": "Exécuter des LLMs en local",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Models"
+                ]
+            },
+            {
+                "name": "Groq",
+                "desc": "Inférence ultra rapide",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Hardware"
+                ]
+            },
+            {
+                "name": "OpenRouter",
+                "desc": "API pour tous les LLMs",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "API"
+                ]
+            },
+            {
+                "name": "Promptbase",
+                "desc": "Marché de prompts",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Prompts"
+                ]
+            },
+            {
+                "name": "Learn Prompting",
+                "desc": "Cours de prompt engineering",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Edu"
+                ]
+            },
+            {
+                "name": "Integromat (Make)",
+                "desc": "Automatisations complexes",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Automation"
+                ]
+            },
+            {
+                "name": "Tldv",
+                "desc": "Enregistre et résume Google Meet/Zoom",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Meetings"
+                ]
+            },
+            {
+                "name": "Supermeme.ai",
+                "desc": "Génération de mèmes par texte",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Humor",
+                    "Social"
+                ]
+            },
+            {
+                "name": "WatermarkRemover.ai",
+                "desc": "Enlever les filigranes",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Utility"
+                ]
+            },
+            {
+                "name": "Namelix",
+                "desc": "Générateur de noms de business",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Branding"
+                ]
+            },
+            {
+                "name": "Brandmark",
+                "desc": "Création de logos simplifiée",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Design"
+                ]
+            },
+            {
+                "name": "StockImg.ai",
+                "desc": "Générateur de couvertures et affiches",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Graphics"
+                ]
+            },
+            {
+                "name": "Beautiful.ai",
+                "desc": "Présentations design intelligentes",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Slides"
+                ]
+            },
+            {
+                "name": "Decktopus",
+                "desc": "Générateur de decks de vente",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Sales"
+                ]
+            },
+            {
+                "name": "Krisp",
+                "desc": "Suppression de bruit de fond",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Audio",
+                    "Meetings"
+                ]
+            },
+            {
+                "name": "Rask.ai",
+                "desc": "Traduction et doublage vidéo",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Localization"
+                ]
+            },
+            {
+                "name": "ElevenLabs Reader",
+                "desc": "App de lecture audio",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Mobile"
+                ]
+            },
+            {
+                "name": "Cleanvoice.ai",
+                "desc": "Nettoyage automatique de podcast",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Audio"
+                ]
+            },
+            {
+                "name": "Podcastle",
+                "desc": "Studio de podcast tout-en-un",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Creators"
+                ]
+            },
+            {
+                "name": "Riverside.fm AI",
+                "desc": "Transcription et édition podcast",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Media"
+                ]
+            },
+            {
+                "name": "Invideo Studio",
+                "desc": "Éditeur vidéo assisté",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Video"
+                ]
+            },
+            {
+                "name": "Lumen5",
+                "desc": "Vidéo marketing automatique",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Ads"
+                ]
+            },
+            {
+                "name": "Mojo",
+                "desc": "Stories animées pour Instagram",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "SocialMedia"
+                ]
+            },
+            {
+                "name": "CapCut Desktop",
+                "desc": "Montage pro facilité",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "VideoEditing"
+                ]
+            },
+            {
+                "name": "InShot AI",
+                "desc": "Éditeur mobile avec filtres IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "MobileApp"
+                ]
+            },
+            {
+                "name": "Adobe Express",
+                "desc": "Design rapide avec IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Creative"
+                ]
+            },
+            {
+                "name": "Leonardo Canvas",
+                "desc": "Édition d'image infinie",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Art"
+                ]
+            },
+            {
+                "name": "Remove.bg",
+                "desc": "Suppression d'arrière-plan photo",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Utility"
+                ]
+            },
+            {
+                "name": "Cleanup.pictures",
+                "desc": "Enlever des objets sur les photos",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Editing"
+                ]
+            },
+            {
+                "name": "Vocal Remover",
+                "desc": "Isoler la voix de la musique",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Music"
+                ]
+            },
+            {
+                "name": "Soundraw.io",
+                "desc": "Beat maker IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Music"
+                ]
+            },
+            {
+                "name": "AIVA.ai",
+                "desc": "IA de composition pour jeux vidéo",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Gaming"
+                ]
+            },
+            {
+                "name": "Amper Music",
+                "desc": "Musique pour créateurs (Shutterstock)",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Stock"
+                ]
+            },
+            {
+                "name": "Jukebox",
+                "desc": "Modèle musical d'OpenAI",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Research"
+                ]
+            },
+            {
+                "name": "Weights.gg",
+                "desc": "Base de données de modèles vocaux",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "VoiceModels"
+                ]
+            },
+            {
+                "name": "FineShare",
+                "desc": "Modificateur de voix en temps réel",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Streaming"
+                ]
+            },
+            {
+                "name": "VoiceMod",
+                "desc": "IA vocale pour gamers",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Gaming"
+                ]
+            },
+            {
+                "name": "AlterEgo",
+                "desc": "Synthèse de chant",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Singing"
+                ]
+            },
+            {
+                "name": "Synthesizer V",
+                "desc": "Chanteurs virtuels réalistes",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "MusicProduction"
+                ]
+            },
+            {
+                "name": "Sunno.ai",
+                "desc": "Plateforme de création de hits",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "SocialMusic"
+                ]
+            },
+            {
+                "name": "Suno v3.5",
+                "desc": "Générateur de chansons 4min+",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "MusicUpdate"
+                ]
+            },
+            {
+                "name": "Stable Audio",
+                "desc": "Génération de sons par Stability",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "SFX"
+                ]
+            },
+            {
+                "name": "AudioCraft",
+                "desc": "Outils audio de Meta",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "OpenSource"
+                ]
+            },
+            {
+                "name": "Audiolabs",
+                "desc": "IA pour transformer les podcasts en shorts",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "ContentRepurposing"
+                ]
+            },
+            {
+                "name": "OpusClip",
+                "desc": "IA pour extraire des clips viraux",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "YouTube"
+                ]
+            },
+            {
+                "name": "Munch",
+                "desc": "Analyse de tendances vidéo",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "SocialData"
+                ]
+            },
+            {
+                "name": "Vidyo.ai",
+                "desc": "Shorts automatiques",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "VideoShorts"
+                ]
+            },
+            {
+                "name": "Gling",
+                "desc": "Coupe les blancs des vidéos",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "YouTubeEditor"
+                ]
+            },
+            {
+                "name": "Adobe Premiere Pro AI",
+                "desc": "Remplissage génératif vidéo",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "VFX"
+                ]
+            },
+            {
+                "name": "After Effects AI",
+                "desc": "Roto Brush 3.0",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "MotionGraphics"
+                ]
+            },
+            {
+                "name": "DaVinci Resolve AI",
+                "desc": "Magic Mask et isolation voix",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "ColorGrading"
+                ]
+            },
+            {
+                "name": "Luma Genie",
+                "desc": "Génération d'objets 3D",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "3DModeling"
+                ]
+            },
+            {
+                "name": "Spline AI",
+                "desc": "Design 3D par texte",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Web3D"
+                ]
+            },
+            {
+                "name": "Meshy",
+                "desc": "Générateur d'assets 3D pour jeux",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "GameDev"
+                ]
+            },
+            {
+                "name": "Blockade Labs",
+                "desc": "Générateur de mondes 360°",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Skybox",
+                    "VR"
+                ]
+            },
+            {
+                "name": "Skybox AI",
+                "desc": "Environnements immersifs",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Metaverse"
+                ]
+            },
+            {
+                "name": "Inworld AI",
+                "desc": "PNJ intelligents pour jeux",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Gaming"
+                ]
+            },
+            {
+                "name": "Convai",
+                "desc": "IA conversationnelle pour avatars 3D",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Realtime"
+                ]
+            },
+            {
+                "name": "Ready Player Me",
+                "desc": "Avatars avec IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Avatars"
+                ]
+            },
+            {
+                "name": "Metahuman (Epic)",
+                "desc": "Humains numériques réalistes",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "UnrealEngine"
+                ]
+            },
+            {
+                "name": "D-ID",
+                "desc": "Animation de visages",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Avatars"
+                ]
+            },
+            {
+                "name": "Reface",
+                "desc": "Face swap IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Fun"
+                ]
+            },
+            {
+                "name": "Lensa AI",
+                "desc": "Avatars artistiques",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "MagicAvatars"
+                ]
+            },
+            {
+                "name": "Remini",
+                "desc": "Restauration de vieilles photos",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Photography"
+                ]
+            },
+            {
+                "name": "Let's Enhance",
+                "desc": "Upscaling d'image",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "ImageHD"
+                ]
+            },
+            {
+                "name": "Gigapixel AI",
+                "desc": "Agrandissement sans perte",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Tools"
+                ]
+            },
+            {
+                "name": "Topaz Photo AI",
+                "desc": "Réduction de bruit et netteté",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Photography"
+                ]
+            },
+            {
+                "name": "Fotor AI",
+                "desc": "Outils graphiques complets",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "GraphicDesign"
+                ]
+            },
+            {
+                "name": "BeFunky AI",
+                "desc": "Édition photo simplifiée",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Web"
+                ]
+            },
+            {
+                "name": "VanceAI",
+                "desc": "Traitement d'image pro",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Business"
+                ]
+            },
+            {
+                "name": "Jasper Art",
+                "desc": "Générateur d'images pour copywriters",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Marketing"
+                ]
+            },
+            {
+                "name": "WordTune Read",
+                "desc": "Résumé de longs articles",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Reading"
+                ]
+            },
+            {
+                "name": "Genei",
+                "desc": "Recherche et résumé pour étudiants",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Academic"
+                ]
+            },
+            {
+                "name": "Zotero AI",
+                "desc": "Gestion de biblio assistée",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Research"
+                ]
+            },
+            {
+                "name": "Paperpal",
+                "desc": "Aide à l'écriture académique",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Editing"
+                ]
+            },
+            {
+                "name": "Writefull",
+                "desc": "IA pour chercheurs",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Science"
+                ]
+            },
+            {
+                "name": "Trinka",
+                "desc": "Correction spécialisée science",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Writing"
+                ]
+            },
+            {
+                "name": "Cogram",
+                "desc": "Notes de réunion automatiques",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Enterprise"
+                ]
+            },
+            {
+                "name": "Grain",
+                "desc": "Capture et partage de moments vidéo",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Sales"
+                ]
+            },
+            {
+                "name": "MeetGeek",
+                "desc": "Assistant de réunion",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Meetings"
+                ]
+            },
+            {
+                "name": "Avoma",
+                "desc": "IA pour cycles de vente",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "SalesIntelligence"
+                ]
+            },
+            {
+                "name": "Chorus.ai",
+                "desc": "Analyse conversationnelle",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "BusinessIA"
+                ]
+            },
+            {
+                "name": "Gong.io",
+                "desc": "Revenue intelligence",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "SalesTech"
+                ]
+            },
+            {
+                "name": "Lately",
+                "desc": "IA pour recycler le contenu en posts",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "SocialMedia"
+                ]
+            },
+            {
+                "name": "Ocoya",
+                "desc": "Planification de contenu IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "SMM"
+                ]
+            },
+            {
+                "name": "Predis.ai",
+                "desc": "Générateur de vidéos Instagram",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "SocialContent"
+                ]
+            },
+            {
+                "name": "AdCreative.ai",
+                "desc": "Génération de bannières pub",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Ads"
+                ]
+            },
+            {
+                "name": "Marpipe",
+                "desc": "Test de créas publicitaires",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "DataAds"
+                ]
+            },
+            {
+                "name": "Pencil AI",
+                "desc": "Créas publicitaires TikTok/FB",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "EcommerceAds"
+                ]
+            },
+            {
+                "name": "Smartly.io",
+                "desc": "Optimisation publicitaire",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "MarketingCloud"
+                ]
+            },
+            {
+                "name": "Klaviyo AI",
+                "desc": "Email marketing intelligent",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Ecommerce"
+                ]
+            },
+            {
+                "name": "Mailchimp Intuit Assist",
+                "desc": "Génération d'emails",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "MarketingAutomation"
+                ]
+            },
+            {
+                "name": "Intercom Fin",
+                "desc": "Service client par IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Chatbot"
+                ]
+            },
+            {
+                "name": "Zendesk AI",
+                "desc": "Support client automatisé",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Support"
+                ]
+            },
+            {
+                "name": "Ada",
+                "desc": "Automatisation du service client",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "CS"
+                ]
+            },
+            {
+                "name": "Drift AI",
+                "desc": "IA conversationnelle pour ventes",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "SalesBot"
+                ]
+            },
+            {
+                "name": "Chatbase",
+                "desc": "Créer un chatbot sur ses données",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "SaaS"
+                ]
+            },
+            {
+                "name": "SiteGPT",
+                "desc": "IA pour site web",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "WebTool"
+                ]
+            },
+            {
+                "name": "TypingMind",
+                "desc": "Interface pro pour ChatGPT/Claude",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "UI"
+                ]
+            },
+            {
+                "name": "BetterGPT",
+                "desc": "Client alternatif pour IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Tools"
+                ]
+            },
+            {
+                "name": "LangChain",
+                "desc": "Framework pour apps LLM",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "DevLib"
+                ]
+            },
+            {
+                "name": "LlamaIndex",
+                "desc": "Framework d'indexation de données",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "DataDev"
+                ]
+            },
+            {
+                "name": "Flowise",
+                "desc": "Low-code pour LangChain",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "NoCodeDev"
+                ]
+            },
+            {
+                "name": "LangFlow",
+                "desc": "Interface visuelle pour agents IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Agents"
+                ]
+            },
+            {
+                "name": "BabyAGI",
+                "desc": "Agent IA autonome",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Research"
+                ]
+            },
+            {
+                "name": "AutoGPT",
+                "desc": "Agent capable de réaliser des tâches",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Automation"
+                ]
+            },
+            {
+                "name": "MultiOn",
+                "desc": "IA qui navigue sur le web pour vous",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "WebAgent"
+                ]
+            },
+            {
+                "name": "HyperWrite",
+                "desc": "Assistant personnel",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Writing"
+                ]
+            },
+            {
+                "name": "MindOS",
+                "desc": "Place de marché d'agents IA",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "AgentsMarket"
+                ]
+            },
+            {
+                "name": "Lindy.ai",
+                "desc": "Assistant d'automatisation personnel",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Productivity"
+                ]
+            },
+            {
+                "name": "Monica",
+                "desc": "Extension navigateur IA tout-en-un",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Chrome"
+                ]
+            },
+            {
+                "name": "Sider",
+                "desc": "Barre latérale IA pour browser",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Extension"
+                ]
+            },
+            {
+                "name": "Merlin AI",
+                "desc": "Assistant pour réseaux sociaux",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "SocialExtension"
+                ]
+            },
+            {
+                "name": "Wiseone",
+                "desc": "Lecture assistée sur le web",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "ReadingTool"
+                ]
+            },
+            {
+                "name": "Eightify",
+                "desc": "Résumé de vidéos YouTube",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "VideoSummary"
+                ]
+            },
+            {
+                "name": "Summarize.tech",
+                "desc": "Résumé technique de vidéos",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "Learning"
+                ]
+            },
+            {
+                "name": "Veed Subtitles",
+                "desc": "Sous-titrage automatique",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "VideoTools"
+                ]
+            },
+            {
+                "name": "Submagic",
+                "desc": "Sous-titres dynamiques pour shorts",
+                "icon": "box",
+                "color": "text-white",
+                "tags": [
+                    "ViralVideo"
+                ]
+            }
+        ]
+    }
+]
