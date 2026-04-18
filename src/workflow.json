@@ -1,0 +1,172 @@
+[
+  {
+    "id": "wf_youtube_shorts",
+    "title": "Créateur de Séries YouTube Shorts Virales",
+    "description": "Générez des vidéos courtes virales de A à Z en combinant la rédaction de script, la génération d'images, l'animation, la voix off et le montage automatisé.",
+    "apps": ["ChatGPT", "Midjourney", "Runway Gen-3", "ElevenLabs", "CapCut AI"],
+    "steps": [
+      {
+        "app": "ChatGPT",
+        "action": "Rédiger un script court, accrocheur et structuré pour un format de 60 secondes (hook, histoire, call-to-action)."
+      },
+      {
+        "app": "Midjourney",
+        "action": "Générer les visuels clés et les arrière-plans atmosphériques qui illustrent le script."
+      },
+      {
+        "app": "Runway Gen-3",
+        "action": "Animer les images fixes générées par Midjourney pour leur donner un effet dynamique et cinématographique."
+      },
+      {
+        "app": "ElevenLabs",
+        "action": "Créer une voix off réaliste, émotionnelle et captivante à partir du script."
+      },
+      {
+        "app": "CapCut AI",
+        "action": "Assembler les vidéos, ajouter la voix off, des sous-titres dynamiques et la musique de fond."
+      }
+    ],
+    "tags": ["Vidéo", "Réseaux Sociaux", "Marketing"]
+  },
+  {
+    "id": "wf_audio_storytelling",
+    "title": "Production de Livre Audio Immersif",
+    "description": "Créez une expérience d'écoute riche avec une narration vivante, de la musique de fond originale et une couverture artistique.",
+    "apps": ["Claude", "Suno", "ElevenLabs", "Adobe Podcast", "Midjourney"],
+    "steps": [
+      {
+        "app": "Claude",
+        "action": "Écrire une histoire captivante avec des dialogues profonds et des descriptions détaillées."
+      },
+      {
+        "app": "ElevenLabs",
+        "action": "Générer la voix du narrateur et attribuer des voix distinctes aux différents personnages."
+      },
+      {
+        "app": "Suno",
+        "action": "Composer une musique d'ambiance et une bande-son originale qui évolue selon le ton de la narration."
+      },
+      {
+        "app": "Adobe Podcast",
+        "action": "Nettoyer et optimiser la qualité audio globale pour un rendu professionnel sans bruit de fond."
+      },
+      {
+        "app": "Midjourney",
+        "action": "Créer la couverture et les illustrations promotionnelles de l'histoire pour les plateformes de podcast."
+      }
+    ],
+    "tags": ["Audio", "Storytelling", "Édition"]
+  },
+  {
+    "id": "wf_virtual_influencer",
+    "title": "Lancement d'un Influenceur Virtuel",
+    "description": "Donnez vie à un ambassadeur de marque numérique cohérent, avec sa propre identité visuelle et sa prise de parole sur les réseaux.",
+    "apps": ["ChatGPT", "Leonardo.ai", "HeyGen", "Canva Magic Design"],
+    "steps": [
+      {
+        "app": "ChatGPT",
+        "action": "Définir la personnalité, le ton de voix, le storytelling et le calendrier éditorial de l'avatar."
+      },
+      {
+        "app": "Leonardo.ai",
+        "action": "Concevoir le visage, le style et l'apparence physique de l'influenceur avec un style et des proportions constants."
+      },
+      {
+        "app": "HeyGen",
+        "action": "Animer le visage de l'avatar en le faisant parler pour générer des vidéos face-caméra (TikTok/Reels)."
+      },
+      {
+        "app": "Canva Magic Design",
+        "action": "Créer des posts Instagram, stories et bannières harmonieuses en intégrant les visuels de l'avatar."
+      }
+    ],
+    "tags": ["Marketing", "Réseaux Sociaux", "Avatar"]
+  },
+  {
+    "id": "wf_game_assets",
+    "title": "Pipeline de Création de Jeu Vidéo (Indé)",
+    "description": "Générez rapidement tout l'univers, les concepts 3D, les textures et les musiques ambiantes d'un prototype de jeu vidéo basique.",
+    "apps": ["Perplexity", "Midjourney", "Vectary", "Leonardo.ai", "Soundraw"],
+    "steps": [
+      {
+        "app": "Perplexity",
+        "action": "Faire des recherches sur le lore, la mythologie ou le contexte scientifique du jeu."
+      },
+      {
+        "app": "Midjourney",
+        "action": "Créer des concept arts épiques (personnages, environnements, armes) pour la direction artistique."
+      },
+      {
+        "app": "Vectary",
+        "action": "Modéliser les éléments en 3D et assembler les scènes à partir de l'inspiration générée."
+      },
+      {
+        "app": "Leonardo.ai",
+        "action": "Générer des textures seamless (sans raccord) et des assets UI pour l'habillage des menus."
+      },
+      {
+        "app": "Soundraw",
+        "action": "Créer la bande-son dynamique (exploration, combats, menu d'accueil) libre de droits."
+      }
+    ],
+    "tags": ["Jeux Vidéo", "3D", "Création"]
+  },
+  {
+    "id": "wf_ai_course",
+    "title": "Générateur de Formation en Ligne Pro",
+    "description": "Produisez des cours vidéo structurés complets avec un présentateur IA, un contenu vérifié et des supports visuels.",
+    "apps": ["Perplexity", "Claude", "Synthesia", "Uizard", "Descript"],
+    "steps": [
+      {
+        "app": "Perplexity",
+        "action": "Rechercher des sources de pointe et structurer le plan détaillé de la formation."
+      },
+      {
+        "app": "Claude",
+        "action": "Rédiger le contenu écrit des leçons, les quiz, et le discours exact (script) du présentateur."
+      },
+      {
+        "app": "Uizard",
+        "action": "Concevoir rapidement les supports de cours (slides), les diagrammes et les infographies associées."
+      },
+      {
+        "app": "Synthesia",
+        "action": "Générer la vidéo pédagogique avec un avatar professionnel qui dicte les leçons de façon claire."
+      },
+      {
+        "app": "Descript",
+        "action": "Éditer facilement la vidéo comme un document texte, pour corriger les silences ou ajouter des annotations."
+      }
+    ],
+    "tags": ["Formation", "Vidéo", "Business"]
+  },
+  {
+    "id": "wf_creative_ad_campaign",
+    "title": "Campagne Publicitaire Multimédia 360",
+    "description": "Concevez une campagne promotionnelle moderne avec logo, visuels produits ultra-réalistes, vidéos pub et bande sonore originale.",
+    "apps": ["Gemini", "Looka", "Adobe Firefly", "Kling AI", "Suno"],
+    "steps": [
+      {
+        "app": "Looka",
+        "action": "Créer le logo et l'identité de marque (Brand Kit) pour ancrer le visuel de la marque."
+      },
+      {
+        "app": "Gemini",
+        "action": "Effectuer un brainstorming pour trouver des slogans, rédiger des descriptions captivantes et des scripts de pub."
+      },
+      {
+        "app": "Adobe Firefly",
+        "action": "Générer des packshots de produits photoréalistes et les retoucher pour s'intégrer aux affiches publicitaires."
+      },
+      {
+        "app": "Kling AI",
+        "action": "Créer un spot publicitaire vidéo spectaculaire présentant les produits en mouvement avec des effets de caméra."
+      },
+      {
+        "app": "Suno",
+        "action": "Générer le jingle vocal accrocheur ou la musique instrumentale de la campagne."
+      }
+    ],
+    "tags": ["Publicité", "Multicanal", "Marketing"]
+  }
+]

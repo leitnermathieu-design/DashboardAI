@@ -10,6 +10,14 @@
                 "tags": [
                     "MultiUsage",
                     "Productivité"
+                ],
+                "link": "https://chatgpt.com",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg",
+                "searchKeywords": "Le leader d'OpenAI (GPT-4o/5). Mots-clés: aide, assistant virtuel, assistants & chatbots, avancé, b2b, chat, chatbot, chatgpt, code, conversation, efficacité, entreprise, expert, gain de temps, gpt-3, gpt-4, ia, intelligence artificielle, llm, multiusage, openai, organisation, productivité, professionnel, programmation, qa, qualité, questions, rédaction, réponses, travail, tâches",
+                "prompts": [
+                    "Role: Senior Growth Marketer. Context: Launching a disruptive product. Task: Create a 6-month GTM strategy using the Blue Ocean framework. Constraints: Focus on viral loops; avoid generic SEO. Output: Structured Roadmap.",
+                    "Role: Tech Lead. Context: Applying for a Senior React position. Task: Write a high-impact cover letter focused on performance and mentorship. Constraints: Max 300 words; professional tone. Output: Markdown.",
+                    "Role: Science Educator. Context: Explaining physics to a child. Task: Describe General Relativity using a trampoline analogy. Constraints: No jargon; simple vocabulary. Output: Narrative story format."
                 ]
             },
             {
@@ -20,6 +28,14 @@
                 "tags": [
                     "Éthique",
                     "Rédaction"
+                ],
+                "link": "https://claude.ai",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/claude.svg",
+                "searchKeywords": "Anthropic, excellent pour la rédaction et le code. Mots-clés: aide, analyse de texte, anthropic, assistant virtuel, assistants & chatbots, chat, chatbot, claude, conversation, documents, haiku, ia, intelligence artificielle, opus, pdf, programmation, qa, questions, rédaction, réponses, résumé, sonnet, éthique",
+                "prompts": [
+                    "Role: Data Analyst. Task: Analyze the provided text and synthesize the three primary arguments. Constraints: Use bullet points; maintain objective tone. Output: Executive Summary.",
+                    "Role: Senior Python Developer. Task: Write an optimized script to scrape a specific HTML table. Constraints: Use BeautifulSoup; include error handling and rate limiting. Output: Documented code block.",
+                    "Role: Linguistic Expert. Task: Act as a French tutor. Correct the provided text and explain the grammatical rules behind each fix. Constraints: Professional and encouraging tone."
                 ]
             },
             {
@@ -30,6 +46,14 @@
                 "tags": [
                     "Google",
                     "Multimodal"
+                ],
+                "link": "https://gemini.google.com",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googlegemini.svg",
+                "searchKeywords": "L'IA multimodale de Google. Mots-clés: aide, assistant virtuel, assistants & chatbots, bard, chat, chatbot, conversation, gemini, google, ia, images, intelligence artificielle, intégration google workspace, multimodal, pro, qa, questions, recherche, réponses, ultra, vision",
+                "prompts": [
+                    "Role: Professional Travel Concierge. Task: Plan a 5-day Tokyo itinerary focusing on 'hidden gem' local eateries. Constraints: Include transit tips and budget estimates. Output: Daily Table.",
+                    "Role: Content Curator. Task: Summarize the provided YouTube transcript. Constraints: Highlight key timestamps and actionable takeaways. Output: Bulleted list.",
+                    "Role: Brand Strategist. Task: Brainstorm 10 creative names for a YouTube channel about AI. Constraints: Names must be short, memorable, and available as handles."
                 ]
             },
             {
@@ -40,6 +64,13 @@
                 "tags": [
                     "TempsRéel",
                     "X"
+                ],
+                "link": "https://grok.com",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg",
+                "searchKeywords": "L'IA conversationnelle de xAI (Elon Musk). Mots-clés: actualités, aide, assistant virtuel, assistants & chatbots, chat, chatbot, conversation, elon musk, grok, ia, intelligence artificielle, non-censuré, qa, questions, réponses, temps réel, tempsréel, twitter, x, xai",
+                "prompts": [
+                    "Aide-moi à résoudre un problème complexe.",
+                    "Peux-tu m'expliquer ce concept simplement ?"
                 ]
             },
             {
@@ -50,6 +81,14 @@
                 "tags": [
                     "Recherche",
                     "Sources"
+                ],
+                "link": "https://www.perplexity.ai",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/perplexity.svg",
+                "searchKeywords": "Moteur de recherche assisté par IA. Mots-clés: aide, assistant virtuel, assistants & chatbots, chat, chatbot, citations, conversation, google, ia, intelligence artificielle, investigation, moteur, moteur de recherche, perplexity, qa, questions, recherche, recherche académique, réponses, réponses sourcées, sources, trouver, web",
+                "prompts": [
+                    "Role: Research Scientist. Task: Summarize the latest 2026 breakthroughs in nuclear fusion. Constraints: Cite academic sources; explain the impact on energy grids. Output: Technical report.",
+                    "Role: CTO Advisor. Task: Compare React, Vue, and Svelte in 2026. Constraints: Evaluate SSR performance, ecosystem maturity, and bundle size. Output: Comparison table.",
+                    "Role: Economic Analyst. Task: Analyze the impact of AI on the global job market over the next 5 years. Constraints: Use data-driven projections. Output: Trend analysis."
                 ]
             },
             {
@@ -60,6 +99,13 @@
                 "tags": [
                     "MultiBot",
                     "Mobile"
+                ],
+                "link": "https://poe.com",
+                "logo": "https://favicon.im/poe.com",
+                "searchKeywords": "Agrégateur de chatbots (Quora). Mots-clés: aide, assistant, assistant virtuel, assistants & chatbots, bots personnalisés, chat, chatbot, conversation, création d'assistants, ia, intelligence artificielle, mobile, multi-modèles, multibot, poe, qa, questions, quora, robot, réponses",
+                "prompts": [
+                    "Aide-moi à résoudre un problème complexe.",
+                    "Peux-tu m'expliquer ce concept simplement ?"
                 ]
             },
             {
@@ -70,6 +116,13 @@
                 "tags": [
                     "OpenSource",
                     "Europe"
+                ],
+                "link": "https://mistral.ai",
+                "logo": "https://mistral.ai/favicon.ico",
+                "searchKeywords": "L'alternative française haute performance. Mots-clés: aide, assistant virtuel, assistants & chatbots, chat, chatbot, conversation, eu, europe, français, github, gratuit, ia, intelligence artificielle, libre, local, mistral, mistral ai, mixtral, modèles locaux, open source, opensource, ouvert, qa, questions, rgpd, réponses, source, souveraineté, startup française",
+                "prompts": [
+                    "Aide-moi à résoudre un problème complexe.",
+                    "Peux-tu m'expliquer ce concept simplement ?"
                 ]
             },
             {
@@ -80,6 +133,14 @@
                 "tags": [
                     "Divertissement",
                     "Roleplay"
+                ],
+                "link": "https://character.ai",
+                "logo": "https://character.ai/favicon.ico",
+                "searchKeywords": "Discussion avec des personnages fictifs. Mots-clés: aide, assistant virtuel, assistants & chatbots, avatars, character.ai, chat, chatbot, conversation, divertissement, ia, intelligence artificielle, jeu de rôle, personnages historiques, qa, questions, roleplay, réponses",
+                "prompts": [
+                    "Persona: Albert Einstein. Task: Explain the concept of Spacetime. Tone: Patient, curious, and slightly whimsical. Context: A casual 1920s office setting.",
+                    "Persona: Master Dungeon Master. Task: Lead a dark fantasy campaign. Tone: Descriptive, atmospheric, and reactive to player choices.",
+                    "Persona: 1940s Noir Detective. Tone: Cynical, gritty, uses slang of the era. Context: Sitting in a smoky office with a new case."
                 ]
             },
             {
@@ -90,6 +151,13 @@
                 "tags": [
                     "BienÊtre",
                     "Coach"
+                ],
+                "link": "https://pi.ai",
+                "logo": "https://favicon.im/pi.ai",
+                "searchKeywords": "Assistant personnel empathique. Mots-clés: aide, assistant virtuel, assistants & chatbots, bienêtre, calme, chat, chatbot, coach, conversation, conversation naturelle, détente, empathie, ia, inflexion ai, intelligence artificielle, mental, pi, psychologie, qa, questions, réponses, santé, soutien émotionnel, zen",
+                "prompts": [
+                    "Aide-moi à résoudre un problème complexe.",
+                    "Peux-tu m'expliquer ce concept simplement ?"
                 ]
             },
             {
@@ -100,6 +168,13 @@
                 "tags": [
                     "Communauté",
                     "Tech"
+                ],
+                "link": "https://huggingface.co/chat",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/huggingface.svg",
+                "searchKeywords": "Version open-source par Hugging Face. Mots-clés: aide, assistant virtuel, assistants & chatbots, chat, chatbot, communauté, conversation, discord, forum, groupe, hugging face, huggingchat, ia, informatique, innovation, intelligence artificielle, modèles libres, open source, qa, questions, réponses, social, startup, tech, technologie, utilisateurs",
+                "prompts": [
+                    "Aide-moi à résoudre un problème complexe.",
+                    "Peux-tu m'expliquer ce concept simplement ?"
                 ]
             },
             {
@@ -110,6 +185,13 @@
                 "tags": [
                     "Maths",
                     "Code"
+                ],
+                "link": "https://chat.deepseek.com",
+                "logo": "https://www.deepseek.com/favicon.ico",
+                "searchKeywords": "IA chinoise performante en math/code. Mots-clés: aide, algèbre, apprentissage, assistant virtuel, assistants & chatbots, calcul, chat, chatbot, chine, code, conversation, css, deepseek, développement, html, ia, intelligence artificielle, javascript, logiciel, maths, numérique, open source, performances mathématiques, programmation, python, qa, questions, réponses, science, script, équations",
+                "prompts": [
+                    "Aide-moi à résoudre un problème complexe.",
+                    "Peux-tu m'expliquer ce concept simplement ?"
                 ]
             },
             {
@@ -120,6 +202,13 @@
                 "tags": [
                     "Recherche",
                     "Agents"
+                ],
+                "link": "https://you.com",
+                "logo": "https://favicon.im/you.com",
+                "searchKeywords": "Moteur de recherche et chat personnalisé. Mots-clés: agents, agents web, aide, assistant autonome, assistant virtuel, assistants & chatbots, bot, chat, chatbot, confidentialité, conversation, google, ia, intelligence artificielle, investigation, moteur, qa, questions, recherche, recherche sémantique, robot, réponses, sources, trouver, tâche automatisée, web, you.com",
+                "prompts": [
+                    "Aide-moi à résoudre un problème complexe.",
+                    "Peux-tu m'expliquer ce concept simplement ?"
                 ]
             },
             {
@@ -130,6 +219,13 @@
                 "tags": [
                     "Mobile",
                     "Navigation"
+                ],
+                "link": "https://arc.net",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/arc.svg",
+                "searchKeywords": "Navigateur qui résume le web. Mots-clés: aide, arc search, assistant virtuel, assistants & chatbots, chat, chatbot, conversation, création de pages web, ia, intelligence artificielle, ios, mobile, navigateur, navigation, qa, questions, réponses, résumé d'articles",
+                "prompts": [
+                    "Aide-moi à résoudre un problème complexe.",
+                    "Peux-tu m'expliquer ce concept simplement ?"
                 ]
             },
             {
@@ -140,6 +236,13 @@
                 "tags": [
                     "Microsoft",
                     "Work"
+                ],
+                "link": "https://copilot.microsoft.com",
+                "logo": "https://favicon.im/microsoft.com",
+                "searchKeywords": "Assistant intégré à Windows et Office. Mots-clés: aide, assistant virtuel, assistants & chatbots, bing chat, chat, chatbot, conversation, dall-e, emploi, entreprise, excel, ia, intelligence artificielle, microsoft, microsoft copilot, office 365, qa, questions, réponses, travail, tâches, windows, word, work, équipe",
+                "prompts": [
+                    "Aide-moi à résoudre un problème complexe.",
+                    "Peux-tu m'expliquer ce concept simplement ?"
                 ]
             },
             {
@@ -150,6 +253,13 @@
                 "tags": [
                     "LongFormat",
                     "Analyse"
+                ],
+                "link": "https://kimi.moonshot.cn",
+                "logo": "https://kimi.moonshot.cn/favicon.ico",
+                "searchKeywords": "IA optimisée pour les longs contextes. Mots-clés: aide, analyse, assistant virtuel, assistants & chatbots, chat, chatbot, chine, compréhension, contexte ultra long, conversation, documents volumineux, données, ia, insights, intelligence artificielle, kimi, longformat, lune, qa, questions, rapports, réponses, statistiques",
+                "prompts": [
+                    "Aide-moi à résoudre un problème complexe.",
+                    "Peux-tu m'expliquer ce concept simplement ?"
                 ]
             },
             {
@@ -160,6 +270,13 @@
                 "tags": [
                     "Confidentialité",
                     "Privacy"
+                ],
+                "link": "https://duckduckgo.com/aichat",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/duckduckgo.svg",
+                "searchKeywords": "Chat anonyme et privé. Mots-clés: aide, anonymat, assistant virtuel, assistants & chatbots, chat, chatbot, confidentialité, conversation, duckduckgo ai, ia, intelligence artificielle, privacy, qa, questions, recherche privée, réponses, sans pistage",
+                "prompts": [
+                    "Aide-moi à résoudre un problème complexe.",
+                    "Peux-tu m'expliquer ce concept simplement ?"
                 ]
             }
         ]
@@ -175,6 +292,14 @@
                 "tags": [
                     "Art",
                     "Design"
+                ],
+                "link": "https://www.midjourney.com",
+                "logo": "https://favicon.im/midjourney.com",
+                "searchKeywords": "La référence pour le photoréalisme. Mots-clés: art, art numérique, artiste, création, design, dessin, discord, esthétique, graphisme, génération d'images, génération images, illustration, images & design, interface, maquette, midjourney, peinture, photo, photoréalisme, ui, ux, v6, visuel",
+                "prompts": [
+                    "A sprawling futuristic megacity at golden hour, hyper-detailed cyberpunk architecture, flying vehicles, volumetric lighting, shot on 35mm lens, f/1.8 --ar 16:9 --v 6.0",
+                    "A golden retriever puppy in a detailed astronaut suit on the moon, hyper-realistic photography, cinematic earth-rise in background, dramatic lighting --ar 4:5",
+                    "Minimalist logo design for a premium coffee shop, geometric coffee bean integrated with golden ratio spiral, flat vector style, white background, no text"
                 ]
             },
             {
@@ -185,6 +310,14 @@
                 "tags": [
                     "Simple",
                     "OpenAI"
+                ],
+                "link": "https://openai.com/dall-e-3",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg",
+                "searchKeywords": "Générateur intégré à ChatGPT. Mots-clés: art numérique, chatgpt, création, dall-e 3, dessin, esthétique, github, graphisme, gratuit, génération d'images, génération images, images & design, intégration fluide, libre, openai, ouvert, peinture, photo, simple, source, ui, ux, visuel",
+                "prompts": [
+                    "An oil painting of a cat reading a dusty book in a magical library, warm amber lighting, ethereal dust motes, van Gogh style brushstrokes.",
+                    "Flat design vector illustration of a diverse tech team collaborating on holographic interfaces, clean lines, corporate color palette.",
+                    "Macro photography of a water drop on a leaf, reflecting a miniature lush forest inside the droplet, 8k resolution, soft bokeh background."
                 ]
             },
             {
@@ -195,6 +328,14 @@
                 "tags": [
                     "Libre",
                     "Local"
+                ],
+                "link": "https://stability.ai",
+                "logo": "https://stability.ai/favicon.ico",
+                "searchKeywords": "Générateur d'images open-source. Mots-clés: art numérique, communauté, controlnet, contrôle poussé, création, dessin, esthétique, github, graphisme, gratuit, génération images, images & design, libre, local, open source, peinture, photo, public, stability ai, stable diffusion, ui, ux, visuel",
+                "prompts": [
+                    "Portrait of a cyberpunk girl with glowing neon tattoos, intricate mechanical detail, bokeh city lights background, 8k, sharp focus, masterpiece.",
+                    "Fantasy landscape with floating islands and massive waterfalls, ethereal light, digital art style, intricate textures, trending on ArtStation.",
+                    "Hyper-realistic snowy cabin in the woods at night, warm light glowing from windows, smoke rising from chimney, volumetric fog, highly detailed."
                 ]
             },
             {
@@ -205,6 +346,14 @@
                 "tags": [
                     "Professionnel",
                     "CreativeCloud"
+                ],
+                "link": "https://www.adobe.com/firefly",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobecreativecloud.svg",
+                "searchKeywords": "IA générative pour Photoshop/Illustrator. Mots-clés: adobe firefly, art numérique, avancé, b2b, creativecloud, création, dessin, droits d'auteur, en ligne, entreprise, esthétique, expert, graphisme, génération images, génération légale, hébergement, illustrator, images & design, internet, peinture, photo, photoshop, professionnel, qualité, retouche, saas, serveur, travail, ui, ux, visuel",
+                "prompts": [
+                    "Watercolor landscape of snowy mountains at sunset, soft blending, artistic paper texture.",
+                    "Photorealistic texture of a weathered red brick wall, high relief, moss in crevices, 4k seamless tile.",
+                    "(Text Effect) Style: Nature. Apply 3D climbing ivy and blooming flowers to the letters, organic growth pattern."
                 ]
             },
             {
@@ -215,6 +364,13 @@
                 "tags": [
                     "Marketing",
                     "Simple"
+                ],
+                "link": "https://www.canva.com",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg",
+                "searchKeywords": "Création de visuels réseaux sociaux. Mots-clés: art numérique, canva magic design, croissance, création, design facile, dessin, esthétique, graphisme, génération images, images & design, marketing, peinture, photo, promotion, présentations, publicité, réseaux sociaux, seo, simple, ui, ux, vente, visuel",
+                "prompts": [
+                    "Un magnifique paysage futuriste, hautement détaillé.",
+                    "Portrait d'un personnage de fantasy, éclairage dramatique."
                 ]
             },
             {
@@ -225,6 +381,13 @@
                 "tags": [
                     "Gaming",
                     "Assets"
+                ],
+                "link": "https://leonardo.ai",
+                "logo": "https://favicon.im/leonardo.ai",
+                "searchKeywords": "Plateforme complète pour artistes. Mots-clés: 3d, art numérique, assets, assets de jeu, banque, concept art, contrôle de la génération, création, dessin, esthétique, fichiers, gaming, graphisme, génération images, images & design, jeu, leonardo.ai, peinture, photo, ressources, ui, ux, visuel, éléments",
+                "prompts": [
+                    "Un magnifique paysage futuriste, hautement détaillé.",
+                    "Portrait d'un personnage de fantasy, éclairage dramatique."
                 ]
             },
             {
@@ -235,6 +398,13 @@
                 "tags": [
                     "Vectoriel",
                     "Design"
+                ],
+                "link": "https://www.recraft.ai",
+                "logo": "https://favicon.im/recraft.ai",
+                "searchKeywords": "Génération de vecteurs et d'icônes. Mots-clés: art numérique, art vectoriel, création, design, design graphique, dessin, esthétique, graphisme, génération images, icônes, illustrations, images & design, interface, maquette, peinture, photo, recraft, ui, ux, vectoriel, visuel",
+                "prompts": [
+                    "Un magnifique paysage futuriste, hautement détaillé.",
+                    "Portrait d'un personnage de fantasy, éclairage dramatique."
                 ]
             },
             {
@@ -245,6 +415,13 @@
                 "tags": [
                     "Retouche",
                     "HD"
+                ],
+                "link": "https://magnific.ai",
+                "logo": "https://favicon.im/magnific.ai",
+                "searchKeywords": "Upscaler et rehausseur de détails. Mots-clés: amélioration de la résolution, art numérique, création, dessin, détails, esthétique, graphisme, génération images, hd, images & design, magnific ai, peinture, photo, retouche, ui, upscaling, ux, visuel",
+                "prompts": [
+                    "Un magnifique paysage futuriste, hautement détaillé.",
+                    "Portrait d'un personnage de fantasy, éclairage dramatique."
                 ]
             },
             {
@@ -255,6 +432,13 @@
                 "tags": [
                     "Live",
                     "Design"
+                ],
+                "link": "https://www.krea.ai",
+                "logo": "https://favicon.im/krea.ai",
+                "searchKeywords": "Génération d'images en temps réel. Mots-clés: art numérique, croquis, création, design, design instantané, dessin, esthétique, graphisme, génération en temps réel, génération images, images & design, interface, ipad, krea.ai, live, maquette, peinture, photo, ui, ux, visuel",
+                "prompts": [
+                    "Un magnifique paysage futuriste, hautement détaillé.",
+                    "Portrait d'un personnage de fantasy, éclairage dramatique."
                 ]
             },
             {
@@ -265,6 +449,13 @@
                 "tags": [
                     "Branding",
                     "Business"
+                ],
+                "link": "https://looka.com",
+                "logo": "https://looka.com/favicon.ico",
+                "searchKeywords": "Création de logos et branding. Mots-clés: art numérique, b2b, branding, business, charte graphique, commerce, création, création de logos, dessin, entreprise, esthétique, graphisme, génération images, identité, identité de marque, images & design, logo, looka, marque, peinture, photo, pme, pro, société, startup, ui, ux, vente, visuel",
+                "prompts": [
+                    "Un magnifique paysage futuriste, hautement détaillé.",
+                    "Portrait d'un personnage de fantasy, éclairage dramatique."
                 ]
             },
             {
@@ -275,6 +466,13 @@
                 "tags": [
                     "Ecommerce",
                     "Mobile"
+                ],
+                "link": "https://www.photoroom.com",
+                "logo": "https://www.photoroom.com/favicon.ico",
+                "searchKeywords": "Suppression d'arrière-plan. Mots-clés: achats, art numérique, boutique, création, dessin, détourage, e-commerce, ecommerce, esthétique, graphisme, génération images, images & design, mobile, packshot, panier, peinture, photo, photoroom, produits, shopify, suppression fond, ui, ux, vente en ligne, visuel",
+                "prompts": [
+                    "Un magnifique paysage futuriste, hautement détaillé.",
+                    "Portrait d'un personnage de fantasy, éclairage dramatique."
                 ]
             },
             {
@@ -285,6 +483,13 @@
                 "tags": [
                     "Communauté",
                     "Models"
+                ],
+                "link": "https://civitai.com",
+                "logo": "https://favicon.im/civitai.com",
+                "searchKeywords": "Bibliothèque de modèles Stable Diffusion. Mots-clés: art numérique, civitai, communauté, création, dessin, discord, esthétique, forum, graphisme, groupe, génération images, images & design, models, peinture, photo, social, ui, utilisateurs, ux, visuel",
+                "prompts": [
+                    "Un magnifique paysage futuriste, hautement détaillé.",
+                    "Portrait d'un personnage de fantasy, éclairage dramatique."
                 ]
             },
             {
@@ -295,6 +500,13 @@
                 "tags": [
                     "Ecommerce",
                     "Marketing"
+                ],
+                "link": "https://flair.ai",
+                "logo": "https://flair.ai/favicon.ico",
+                "searchKeywords": "Photographie de produit assistée par IA. Mots-clés: achats, art numérique, boutique, croissance, création, dessin, ecommerce, esthétique, flair.ai, graphisme, génération images, images & design, marketing, panier, peinture, photo, produits, promotion, publicité, réseaux sociaux, seo, shopify, ui, ux, vente, vente en ligne, visuel",
+                "prompts": [
+                    "Un magnifique paysage futuriste, hautement détaillé.",
+                    "Portrait d'un personnage de fantasy, éclairage dramatique."
                 ]
             },
             {
@@ -305,6 +517,13 @@
                 "tags": [
                     "WebDesign",
                     "Prototypage"
+                ],
+                "link": "https://uizard.io",
+                "logo": "https://uizard.io/favicon.ico",
+                "searchKeywords": "Design d'interfaces UI/UX. Mots-clés: art numérique, avancé, b2b, création, création web, dessin, en ligne, entreprise, esthétique, expert, graphisme, génération images, html, images & design, interface, internet, maquette, navigateur, peinture, photo, professionnel, prototypage, qualité, site, travail, ui, uizard, ux, visuel, webdesign",
+                "prompts": [
+                    "Un magnifique paysage futuriste, hautement détaillé.",
+                    "Portrait d'un personnage de fantasy, éclairage dramatique."
                 ]
             },
             {
@@ -315,6 +534,13 @@
                 "tags": [
                     "3D",
                     "Design"
+                ],
+                "link": "https://www.vectary.com",
+                "logo": "https://favicon.im/vectary.com",
+                "searchKeywords": "Création de contenu 3D. Mots-clés: 3d, art numérique, blend, création, design, dessin, esthétique, graphisme, génération images, images & design, interface, maquette, mesh, modélisation, peinture, photo, rendu, spatial, trois dimensions, ui, ux, vectary, visuel, volume",
+                "prompts": [
+                    "Un magnifique paysage futuriste, hautement détaillé.",
+                    "Portrait d'un personnage de fantasy, éclairage dramatique."
                 ]
             },
             {
@@ -325,6 +551,13 @@
                 "tags": [
                     "Retouche",
                     "Web"
+                ],
+                "link": "https://pixlr.com",
+                "logo": "https://pixlr.com/favicon.ico",
+                "searchKeywords": "Éditeur de photos en ligne. Mots-clés: art numérique, création, création web, dessin, en ligne, esthétique, graphisme, génération images, html, images & design, internet, navigateur, peinture, photo, pixlr ai, retouche, site, ui, ux, visuel, web",
+                "prompts": [
+                    "Un magnifique paysage futuriste, hautement détaillé.",
+                    "Portrait d'un personnage de fantasy, éclairage dramatique."
                 ]
             },
             {
@@ -335,6 +568,13 @@
                 "tags": [
                     "Editing",
                     "Tools"
+                ],
+                "link": "https://clipdrop.co",
+                "logo": "https://clipdrop.co/favicon.ico",
+                "searchKeywords": "Outils d'édition d'image par Stability AI. Mots-clés: art numérique, clipdrop, création, dessin, editing, esthétique, graphisme, génération images, images & design, peinture, photo, tools, ui, ux, visuel",
+                "prompts": [
+                    "Un magnifique paysage futuriste, hautement détaillé.",
+                    "Portrait d'un personnage de fantasy, éclairage dramatique."
                 ]
             }
         ]
@@ -350,6 +590,14 @@
                 "tags": [
                     "Cinéma",
                     "TextToVideo"
+                ],
+                "link": "https://openai.com/sora",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg",
+                "searchKeywords": "Le futur de la vidéo ultra-réaliste (OpenAI). Mots-clés: animation, audiovisuel, caméra, cinéma, clip, effets spéciaux, film, montage, montage vidéo, motion, mouvement, openai, réalisme époustouflant, sora, texttovideo, tiktok, vfx, vidéo & animation, vidéo générative, vlog, youtube",
+                "prompts": [
+                    "Cinematic drone shot flying over a medieval fantasy city during a fireworks festival, vibrant colors, reflections on water, high dynamic range.",
+                    "First-person POV walking through rainy Shinjuku streets at night, neon reflections in puddles, cinematic color grading (teal and orange).",
+                    "3D animation of a small robot exploring a bioluminescent alien jungle, soft glowing plants, playful camera movement, Pixar aesthetic."
                 ]
             },
             {
@@ -360,6 +608,14 @@
                 "tags": [
                     "VFX",
                     "Pro"
+                ],
+                "link": "https://runwayml.com",
+                "logo": "https://favicon.im/runwayml.com",
+                "searchKeywords": "Édition vidéo pro et génération. Mots-clés: animation, audiovisuel, avancé, b2b, clip, effets spéciaux, entreprise, expert, film, génération text-to-video, montage vidéo, motion, mouvement, pro, professionnel, qualité, runway gen-3, tiktok, travail, vfx, vidéo & animation, youtube",
+                "prompts": [
+                    "Slow cinematic tracking shot through an abandoned space station corridor, flickering emergency lights, mysterious atmosphere.",
+                    "Macro extreme close-up of a human eye opening, revealing a swirling galaxy within the iris, high-speed slow motion.",
+                    "Majestic lion roaring in the African savannah at sunset, slow motion, dust particles caught in golden light, cinematic depth of field."
                 ]
             },
             {
@@ -370,6 +626,13 @@
                 "tags": [
                     "Gratuit",
                     "Rapide"
+                ],
+                "link": "https://lumalabs.ai/dream-machine",
+                "logo": "https://favicon.im/lumalabs.ai",
+                "searchKeywords": "Générateur vidéo fluide et rapide. Mots-clés: animation, audiovisuel, backend, clip, développeur, effets spéciaux, endpoint, film, gratuit, immédiat, intégration, luma dream machine, montage vidéo, motion, mouvement, programmation, rapide, temps réel, tiktok, vfx, vidéo & animation, vitesse, youtube",
+                "prompts": [
+                    "Plan cinématique d'une ville cyberpunk sous la pluie.",
+                    "Un animal sauvage se déplaçant dans la jungle au ralenti."
                 ]
             },
             {
@@ -380,6 +643,13 @@
                 "tags": [
                     "Réalisme",
                     "Video"
+                ],
+                "link": "https://klingai.com",
+                "logo": "https://klingai.com/favicon.ico",
+                "searchKeywords": "Générateur vidéo haute fidélité. Mots-clés: animation, audiovisuel, caméra, clip, effets spéciaux, film, génération de vidéo chinoise, haute fidélité, kling ai, montage, montage vidéo, motion, mouvement, physique réaliste, réalisme, tiktok, vfx, video, vidéo & animation, vlog, youtube",
+                "prompts": [
+                    "Plan cinématique d'une ville cyberpunk sous la pluie.",
+                    "Un animal sauvage se déplaçant dans la jungle au ralenti."
                 ]
             },
             {
@@ -390,6 +660,13 @@
                 "tags": [
                     "Marketing",
                     "Avatar"
+                ],
+                "link": "https://www.heygen.com",
+                "logo": "https://www.heygen.com/favicon.ico",
+                "searchKeywords": "Création d'avatars parlants réalistes. Mots-clés: animation, audiovisuel, avatar, avatars réalistes, clip, clonage de voix, croissance, effets spéciaux, film, heygen, humain virtuel, marketing, marketing vidéo, montage vidéo, motion, mouvement, personnage, profil, promotion, publicité, réseaux sociaux, seo, tiktok, traduction, vente, vfx, vidéo & animation, visage, youtube",
+                "prompts": [
+                    "Plan cinématique d'une ville cyberpunk sous la pluie.",
+                    "Un animal sauvage se déplaçant dans la jungle au ralenti."
                 ]
             },
             {
@@ -400,6 +677,13 @@
                 "tags": [
                     "Formation",
                     "Corporate"
+                ],
+                "link": "https://www.synthesia.io",
+                "logo": "https://favicon.im/synthesia.io",
+                "searchKeywords": "Présentations professionnelles avec avatars. Mots-clés: animation, audiovisuel, avatar d'entreprise, clip, corporate, effets spéciaux, elearning, employés, entreprise, film, formation, groupe, montage vidéo, motion, mouvement, rh, société, synthesia, tiktok, vfx, vidéo & animation, voix off, youtube",
+                "prompts": [
+                    "Plan cinématique d'une ville cyberpunk sous la pluie.",
+                    "Un animal sauvage se déplaçant dans la jungle au ralenti."
                 ]
             },
             {
@@ -410,6 +694,13 @@
                 "tags": [
                     "YouTube",
                     "Simple"
+                ],
+                "link": "https://invideo.io",
+                "logo": "https://invideo.io/favicon.ico",
+                "searchKeywords": "Création de vidéos par texte. Mots-clés: animation, audiovisuel, clip, effets spéciaux, film, invideo ai, montage vidéo, motion, mouvement, simple, tiktok, vfx, vidéo & animation, youtube",
+                "prompts": [
+                    "Plan cinématique d'une ville cyberpunk sous la pluie.",
+                    "Un animal sauvage se déplaçant dans la jungle au ralenti."
                 ]
             },
             {
@@ -420,6 +711,13 @@
                 "tags": [
                     "Créatif",
                     "Discord"
+                ],
+                "link": "https://pika.art",
+                "logo": "https://pika.art/favicon.ico",
+                "searchKeywords": "Animation d'images et vidéos. Mots-clés: animation, audiovisuel, clip, créatif, discord, effets spéciaux, film, montage vidéo, motion, mouvement, pika labs, tiktok, vfx, vidéo & animation, youtube",
+                "prompts": [
+                    "Plan cinématique d'une ville cyberpunk sous la pluie.",
+                    "Un animal sauvage se déplaçant dans la jungle au ralenti."
                 ]
             },
             {
@@ -430,6 +728,13 @@
                 "tags": [
                     "TikTok",
                     "SocialMedia"
+                ],
+                "link": "https://www.capcut.com",
+                "logo": "https://favicon.im/capcut.com",
+                "searchKeywords": "Montage vidéo automatisé. Mots-clés: actualités, animation, audiovisuel, capcut ai, clip, community management, contenu, effets spéciaux, facebook, film, instagram, journalisme, linkedin, montage vidéo, motion, mouvement, presse, réseaux, socialmedia, tiktok, twitter, vfx, vidéo & animation, youtube",
+                "prompts": [
+                    "Plan cinématique d'une ville cyberpunk sous la pluie.",
+                    "Un animal sauvage se déplaçant dans la jungle au ralenti."
                 ]
             },
             {
@@ -440,6 +745,13 @@
                 "tags": [
                     "Podcast",
                     "Transcript"
+                ],
+                "link": "https://www.descript.com",
+                "logo": "https://favicon.im/descript.com",
+                "searchKeywords": "Montage vidéo via l'édition du texte. Mots-clés: animation, audio, audiovisuel, clip, descript, effets spéciaux, film, montage vidéo, motion, mouvement, podcast, radio, spotify, tiktok, transcript, vfx, vidéo & animation, voix, youtube, émission",
+                "prompts": [
+                    "Plan cinématique d'une ville cyberpunk sous la pluie.",
+                    "Un animal sauvage se déplaçant dans la jungle au ralenti."
                 ]
             },
             {
@@ -450,6 +762,13 @@
                 "tags": [
                     "CGI",
                     "VFX"
+                ],
+                "link": "https://wonderdynamics.com",
+                "logo": "https://favicon.im/wonderdynamics.com",
+                "searchKeywords": "Intégration de persos 3D. Mots-clés: animation, audiovisuel, cgi, clip, effets spéciaux, film, montage vidéo, motion, mouvement, tiktok, vfx, vidéo & animation, wonder dynamics, youtube",
+                "prompts": [
+                    "Plan cinématique d'une ville cyberpunk sous la pluie.",
+                    "Un animal sauvage se déplaçant dans la jungle au ralenti."
                 ]
             },
             {
@@ -460,6 +779,13 @@
                 "tags": [
                     "ClipVidéo",
                     "Art"
+                ],
+                "link": "https://kaiber.ai",
+                "logo": "https://kaiber.ai/favicon.ico",
+                "searchKeywords": "Animation artistique de musique. Mots-clés: animation, art, artiste, audiovisuel, caméra, clip, clipvidéo, création, dessin, effets spéciaux, film, illustration, kaiber, montage, montage vidéo, motion, mouvement, peinture, tiktok, vfx, vidéo & animation, visuel, vlog, youtube",
+                "prompts": [
+                    "Plan cinématique d'une ville cyberpunk sous la pluie.",
+                    "Un animal sauvage se déplaçant dans la jungle au ralenti."
                 ]
             },
             {
@@ -470,6 +796,13 @@
                 "tags": [
                     "Social",
                     "Subtitles"
+                ],
+                "link": "https://www.veed.io",
+                "logo": "https://www.veed.io/favicon.ico",
+                "searchKeywords": "Suite de montage vidéo en ligne. Mots-clés: animation, audiovisuel, clip, community management, effets spéciaux, facebook, film, instagram, linkedin, montage vidéo, motion, mouvement, réseaux, social, subtitles, tiktok, twitter, veed.io, vfx, vidéo & animation, youtube",
+                "prompts": [
+                    "Plan cinématique d'une ville cyberpunk sous la pluie.",
+                    "Un animal sauvage se déplaçant dans la jungle au ralenti."
                 ]
             },
             {
@@ -480,6 +813,13 @@
                 "tags": [
                     "Dev",
                     "VideoAPI"
+                ],
+                "link": "https://www.sievedata.com",
+                "logo": "https://favicon.im/sievedata.com",
+                "searchKeywords": "Infrastructure vidéo intelligente. Mots-clés: animation, audiovisuel, backend, caméra, clip, code, dev, développement, développeur, effets spéciaux, endpoint, film, github, ingénieur, intégration, logiciel, montage, montage vidéo, motion, mouvement, programmation, sieve, tiktok, vfx, videoapi, vidéo & animation, vlog, youtube",
+                "prompts": [
+                    "Plan cinématique d'une ville cyberpunk sous la pluie.",
+                    "Un animal sauvage se déplaçant dans la jungle au ralenti."
                 ]
             },
             {
@@ -490,6 +830,13 @@
                 "tags": [
                     "HR",
                     "Training"
+                ],
+                "link": "https://www.colossyan.com",
+                "logo": "https://favicon.im/colossyan.com",
+                "searchKeywords": "Vidéos de formation avec acteurs IA. Mots-clés: animation, audiovisuel, clip, colossyan, effets spéciaux, film, hr, montage vidéo, motion, mouvement, tiktok, training, vfx, vidéo & animation, youtube",
+                "prompts": [
+                    "Plan cinématique d'une ville cyberpunk sous la pluie.",
+                    "Un animal sauvage se déplaçant dans la jungle au ralenti."
                 ]
             }
         ]
@@ -505,6 +852,14 @@
                 "tags": [
                     "Musique",
                     "Créativité"
+                ],
+                "link": "https://suno.com",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/suno.svg",
+                "searchKeywords": "Génération de chansons complètes. Mots-clés: audio, audio & musique, chanson, créativité, enregistrement, génération de chansons, hit, mp3, musique, musique complète, mélodie, parlé, paroles, piste, podcast, rythme, son, suno, voix, wav",
+                "prompts": [
+                    "Style: 80s Synth-Pop. Topic: Falling in love with an AI. Instrumentation: Analog synths, gated reverb, groovy bassline. Mood: Nostalgic and upbeat.",
+                    "Style: Smooth Jazz. Features: Soft saxophone solo, brushed drums, upright bass. Context: Background music for studying. Mood: Relaxing.",
+                    "Style: Lofi Hip Hop. Features: Chill beats, nostalgic piano melody, vinyl crackle. Mood: Calm and reflective."
                 ]
             },
             {
@@ -515,6 +870,13 @@
                 "tags": [
                     "Musique",
                     "Pro"
+                ],
+                "link": "https://www.udio.com",
+                "logo": "https://www.udio.com/favicon.ico",
+                "searchKeywords": "Haute fidélité musicale et vocale. Mots-clés: audio, audio & musique, avancé, b2b, chanson, enregistrement, entreprise, expert, mp3, musique, musique haute fidélité, mélodie, parlé, piste, pistes, podcast, pro, production professionnelle, professionnel, qualité, rythme, son, travail, udio, voix, wav",
+                "prompts": [
+                    "Une musique entraînante pour une vidéo promotionnelle.",
+                    "Des effets sonores d'ambiance pour une scène spatiale."
                 ]
             },
             {
@@ -525,6 +887,13 @@
                 "tags": [
                     "Dubbing",
                     "Voice"
+                ],
+                "link": "https://elevenlabs.io",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/elevenlabs.svg",
+                "searchKeywords": "Le meilleur clonage de voix. Mots-clés: audio, audio & musique, chanson, chant, clonage vocal, clone, dubbing, elevenlabs, enregistrement, mp3, mélodie, narration, parlé, parole, piste, podcast, rythme, son, synthèse, text-to-speech, voice, voix, voix off, wav",
+                "prompts": [
+                    "Une musique entraînante pour une vidéo promotionnelle.",
+                    "Des effets sonores d'ambiance pour une scène spatiale."
                 ]
             },
             {
@@ -535,6 +904,13 @@
                 "tags": [
                     "DJ",
                     "Production"
+                ],
+                "link": "https://github.com/deezer/spleeter",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/deezer.svg",
+                "searchKeywords": "Séparation des pistes audio. Mots-clés: audio, audio & musique, avancé, b2b, chanson, dj, enregistrement, entreprise, expert, mp3, mélodie, parlé, piste, podcast, production, professionnel, qualité, rythme, son, spleeter, travail, voix, wav",
+                "prompts": [
+                    "Une musique entraînante pour une vidéo promotionnelle.",
+                    "Des effets sonores d'ambiance pour une scène spatiale."
                 ]
             },
             {
@@ -545,6 +921,13 @@
                 "tags": [
                     "Audio",
                     "Podcast"
+                ],
+                "link": "https://podcast.adobe.com",
+                "logo": "https://podcast.adobe.com/favicon.ico",
+                "searchKeywords": "Amélioration audio professionnelle. Mots-clés: adobe podcast, audio, audio & musique, bruitage, chanson, enregistrement, micro, mp3, musique, mélodie, parlé, piste, podcast, radio, rythme, son, spotify, voix, wav, écoute, émission",
+                "prompts": [
+                    "Une musique entraînante pour une vidéo promotionnelle.",
+                    "Des effets sonores d'ambiance pour une scène spatiale."
                 ]
             },
             {
@@ -555,6 +938,13 @@
                 "tags": [
                     "Cinéma",
                     "Compo"
+                ],
+                "link": "https://www.aiva.ai",
+                "logo": "https://www.aiva.ai/favicon.ico",
+                "searchKeywords": "Composition musicale orchestrale. Mots-clés: aiva, audio, audio & musique, chanson, cinéma, compo, enregistrement, mp3, mélodie, parlé, piste, podcast, rythme, son, voix, wav",
+                "prompts": [
+                    "Une musique entraînante pour une vidéo promotionnelle.",
+                    "Des effets sonores d'ambiance pour une scène spatiale."
                 ]
             },
             {
@@ -565,6 +955,13 @@
                 "tags": [
                     "Elearning",
                     "Business"
+                ],
+                "link": "https://murf.ai",
+                "logo": "https://favicon.im/murf.ai",
+                "searchKeywords": "Voix off naturelles. Mots-clés: apprentissage, audio, audio & musique, b2b, business, chanson, commerce, elearning, enregistrement, entreprise, formation, mp3, murf.ai, mélodie, parlé, piste, pme, podcast, pro, professeur, pédagogie, rythme, société, son, startup, tutoriel, vente, voix, wav, école",
+                "prompts": [
+                    "Une musique entraînante pour une vidéo promotionnelle.",
+                    "Des effets sonores d'ambiance pour une scène spatiale."
                 ]
             },
             {
@@ -574,6 +971,13 @@
                 "color": "text-white",
                 "tags": [
                     "Accessibilité"
+                ],
+                "link": "https://speechify.com",
+                "logo": "https://speechify.com/favicon.ico",
+                "searchKeywords": "Lecture de textes par IA. Mots-clés: accessibilité, aide, audio, audio & musique, chanson, enregistrement, facile, handicap, inclusif, lecture, mp3, mélodie, parlé, piste, podcast, rythme, son, speechify, voix, wav",
+                "prompts": [
+                    "Une musique entraînante pour une vidéo promotionnelle.",
+                    "Des effets sonores d'ambiance pour une scène spatiale."
                 ]
             },
             {
@@ -583,6 +987,13 @@
                 "color": "text-white",
                 "tags": [
                     "Creators"
+                ],
+                "link": "https://soundraw.io",
+                "logo": "https://soundraw.io/favicon.ico",
+                "searchKeywords": "Musique libre de droits personnalisable. Mots-clés: audio, audio & musique, chanson, creators, enregistrement, mp3, mélodie, parlé, piste, podcast, rythme, son, soundraw, voix, wav",
+                "prompts": [
+                    "Une musique entraînante pour une vidéo promotionnelle.",
+                    "Des effets sonores d'ambiance pour une scène spatiale."
                 ]
             },
             {
@@ -592,6 +1003,13 @@
                 "color": "text-white",
                 "tags": [
                     "Streaming"
+                ],
+                "link": "https://boomy.com",
+                "logo": "https://boomy.com/favicon.ico",
+                "searchKeywords": "Création et publication de musique. Mots-clés: audio, audio & musique, boomy, chanson, enregistrement, mp3, mélodie, parlé, piste, podcast, rythme, son, streaming, voix, wav",
+                "prompts": [
+                    "Une musique entraînante pour une vidéo promotionnelle.",
+                    "Des effets sonores d'ambiance pour une scène spatiale."
                 ]
             },
             {
@@ -602,6 +1020,13 @@
                 "tags": [
                     "Audio",
                     "Remix"
+                ],
+                "link": "https://www.lalal.ai",
+                "logo": "https://www.lalal.ai/favicon.ico",
+                "searchKeywords": "Extraction de voix et d'instruments. Mots-clés: audio, audio & musique, bruitage, chanson, enregistrement, lalal.ai, micro, mp3, musique, mélodie, parlé, piste, podcast, remix, rythme, son, voix, wav, écoute",
+                "prompts": [
+                    "Une musique entraînante pour une vidéo promotionnelle.",
+                    "Des effets sonores d'ambiance pour une scène spatiale."
                 ]
             },
             {
@@ -612,6 +1037,13 @@
                 "tags": [
                     "TTS",
                     "STT"
+                ],
+                "link": "https://voiser.net",
+                "logo": "https://voiser.net/favicon.ico",
+                "searchKeywords": "Synthèse vocale et transcription. Mots-clés: audio, audio & musique, audio vers texte, chanson, dictée, enregistrement, lecture, mp3, mélodie, parlé, piste, podcast, robot vocal, rythme, son, sous-titres, stt, synthèse vocale, texte vers voix, transcription, tts, voiser, voix, voix vers texte, wav",
+                "prompts": [
+                    "Une musique entraînante pour une vidéo promotionnelle.",
+                    "Des effets sonores d'ambiance pour une scène spatiale."
                 ]
             },
             {
@@ -622,6 +1054,13 @@
                 "tags": [
                     "Fun",
                     "Music"
+                ],
+                "link": "https://www.voicify.ai",
+                "logo": "https://www.voicify.ai/favicon.ico",
+                "searchKeywords": "Création de covers avec voix célèbres. Mots-clés: audio, audio & musique, blague, chanson, divertissement, enregistrement, fun, humour, jeu, loisir, mp3, music, musique, mélodie, parlé, piste, podcast, rythme, son, voicify.ai, voix, wav",
+                "prompts": [
+                    "Une musique entraînante pour une vidéo promotionnelle.",
+                    "Des effets sonores d'ambiance pour une scène spatiale."
                 ]
             },
             {
@@ -632,6 +1071,13 @@
                 "tags": [
                     "Producer",
                     "SaaS"
+                ],
+                "link": "https://soundful.com",
+                "logo": "https://soundful.com/favicon.ico",
+                "searchKeywords": "Génération de musique libre de droits. Mots-clés: audio, audio & musique, avancé, b2b, chanson, enregistrement, entreprise, expert, mp3, mélodie, parlé, piste, podcast, producer, professionnel, qualité, rythme, saas, son, soundful, travail, voix, wav",
+                "prompts": [
+                    "Une musique entraînante pour une vidéo promotionnelle.",
+                    "Des effets sonores d'ambiance pour une scène spatiale."
                 ]
             }
         ]
@@ -647,6 +1093,14 @@
                 "tags": [
                     "IDE",
                     "Code"
+                ],
+                "link": "https://cursor.sh",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cursor.svg",
+                "searchKeywords": "L'éditeur de code IA (Fork VS Code). Mots-clés: ai coding, applications, code, css, cursor, dev, développement, développement & code, développeur, github, html, ide, javascript, js, logiciel, programmation, programmation assistée, python, script, vs code, web",
+                "prompts": [
+                    "Role: Performance Engineer. Task: Analyze this code block and refactor for Big O efficiency. Constraints: Maintain backward compatibility. Output: Refactored code + explanation.",
+                    "Role: Frontend Architect. Task: Convert this React class component to functional components using Hooks. Constraints: Ensure useEffect dependencies are optimized.",
+                    "Role: Debugging Specialist. Task: Identify the memory leak in this specific useEffect hook and provide a permanent fix."
                 ]
             },
             {
@@ -657,6 +1111,14 @@
                 "tags": [
                     "VSCode",
                     "Dev"
+                ],
+                "link": "https://github.com/features/copilot",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
+                "searchKeywords": "L'assistant standard pour développeurs. Mots-clés: applications, code, complétion de code, css, dev, développement, développement & code, développeur, git, github, github copilot, html, ingénieur, javascript, js, logiciel, microsoft, programmation, python, script, vscode, web",
+                "prompts": [
+                    "// Task: Create an async function to fetch user data. // Constraints: Handle 404 and 500 errors; use TypeScript interfaces; implement a 5-second timeout.",
+                    "// Task: Write a React functional component for a primary button. // Features: Hover states, loading spinner prop, tailwind styling.",
+                    "// Task: Write comprehensive unit tests for the following math utility. // Framework: Jest. // Constraints: Include edge cases for null and undefined."
                 ]
             },
             {
@@ -667,6 +1129,12 @@
                 "tags": [
                     "App",
                     "Deployment"
+                ],
+                "link": "https://replit.com",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/replit.svg",
+                "searchKeywords": "Crée des applications complètes seul. Mots-clés: android, app, application, applications, css, deployment, dev, développement & code, développeur, github, html, ios, js, logiciel, mobile, programmation, python, replit agent, script, smartphone, tablette, web",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -677,6 +1145,12 @@
                 "tags": [
                     "NoCode",
                     "SaaS"
+                ],
+                "link": "https://lovable.dev",
+                "logo": "https://lovable.dev/favicon.ico",
+                "searchKeywords": "Développement web en langage naturel. Mots-clés: application web, applications, création facile, css, dev, développement, développement & code, développeur, github, html, javascript, js, logiciel, lovable, nocode, programmation, python, saas, sans code, script, site, visuel, web",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -687,6 +1161,12 @@
                 "tags": [
                     "Productivité",
                     "Dev"
+                ],
+                "link": "https://codeium.com/windsurf",
+                "logo": "https://codeium.com/favicon.ico",
+                "searchKeywords": "IDE intelligent par Codeium. Mots-clés: applications, avancé, b2b, code, css, dev, développement, développement & code, développeur, efficacité, entreprise, expert, gain de temps, github, html, ingénieur, js, logiciel, organisation, productivité, professionnel, programmation, python, qualité, script, travail, tâches, web, windsurf",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -697,6 +1177,12 @@
                 "tags": [
                     "Frontend",
                     "Design"
+                ],
+                "link": "https://v0.dev",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/v0.svg",
+                "searchKeywords": "Génération d'interfaces UI (Next.js). Mots-clés: applications, création, css, design, dev, développement & code, développeur, esthétique, front-end, frontend, github, graphisme, génération d'interfaces, html, interface, js, logiciel, maquette, programmation, python, react, script, tailwind, ui, ux, v0.dev, vercel, web",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -707,6 +1193,12 @@
                 "tags": [
                     "StackBlitz",
                     "Web"
+                ],
+                "link": "https://bolt.new",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bolt.new_logo.png/330px-Bolt.new_logo.png",
+                "searchKeywords": "Création d'apps web full-stack. Mots-clés: applications, bolt.new, création web, css, dev, développement, développement & code, développeur, en ligne, github, html, internet, itération rapide, js, logiciel, navigateur, programmation, python, script, site, stack complete, stackblitz, web",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -717,6 +1209,12 @@
                 "tags": [
                     "Search",
                     "Documentation"
+                ],
+                "link": "https://www.phind.com",
+                "logo": "https://favicon.im/phind.com",
+                "searchKeywords": "Moteur de recherche pour développeurs. Mots-clés: applications, css, dev, documentation, développement & code, développeur, github, html, js, logiciel, phind, programmation, python, script, search, web",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -727,6 +1225,12 @@
                 "tags": [
                     "Extension",
                     "Gratuit"
+                ],
+                "link": "https://codeium.com",
+                "logo": "https://codeium.com/favicon.ico",
+                "searchKeywords": "Alternative gratuite à Copilot. Mots-clés: applications, codeium, css, dev, développement & code, développeur, extension, github, gratuit, html, js, logiciel, programmation, python, script, web",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -737,6 +1241,12 @@
                 "tags": [
                     "Enterprise",
                     "Code"
+                ],
+                "link": "https://www.tabnine.com",
+                "logo": "https://www.tabnine.com/favicon.ico",
+                "searchKeywords": "Assistant de code privé et sécurisé. Mots-clés: applications, code, css, dev, développement, développement & code, développeur, enterprise, github, html, javascript, js, logiciel, programmation, python, script, tabnine, web",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -746,6 +1256,12 @@
                 "color": "text-white",
                 "tags": [
                     "Design2Code"
+                ],
+                "link": "https://www.animaapp.com",
+                "logo": "https://www.animaapp.com/favicon.ico",
+                "searchKeywords": "Conversion Figma en code. Mots-clés: anima, applications, création, css, design2code, dev, développement, développement & code, développeur, esthétique, github, graphisme, html, interface, javascript, js, logiciel, maquette, programmation, python, script, ui, ux, web",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -756,6 +1272,12 @@
                 "tags": [
                     "OCR",
                     "Dev"
+                ],
+                "link": "https://www.blackbox.ai",
+                "logo": "https://www.blackbox.ai/favicon.ico",
+                "searchKeywords": "Copier du code depuis des vidéos. Mots-clés: applications, blackbox ai, code, css, dev, développement, développement & code, développeur, github, html, ingénieur, js, logiciel, ocr, programmation, python, script, web",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -766,6 +1288,12 @@
                 "tags": [
                     "Search",
                     "Context"
+                ],
+                "link": "https://sourcegraph.com/cody",
+                "logo": "https://sourcegraph.com/favicon.ico",
+                "searchKeywords": "IA pour comprendre les gros dépôts. Mots-clés: applications, compréhension, context, css, dev, développement & code, développeur, github, html, js, logiciel, long, mémoire, programmation, python, script, search, sourcegraph cody, taille document, tokens, web",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -776,6 +1304,12 @@
                 "tags": [
                     "AWS",
                     "Cloud"
+                ],
+                "link": "https://aws.amazon.com/q",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg",
+                "searchKeywords": "Assistant de développement par AWS. Mots-clés: amazon q, applications, aws, cloud, css, dev, développement & code, développeur, en ligne, github, html, hébergement, internet, js, logiciel, programmation, python, saas, script, serveur, web",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -786,6 +1320,12 @@
                 "tags": [
                     "Docs",
                     "Writing"
+                ],
+                "link": "https://mintlify.com",
+                "logo": "https://mintlify.com/favicon.ico",
+                "searchKeywords": "Documentation automatique du code. Mots-clés: applications, auteur, blog, copywriting, css, dev, docs, développement & code, développeur, github, html, js, livre, logiciel, mintlify, programmation, python, rédaction, script, web, writing, écriture",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             }
         ]
@@ -801,6 +1341,12 @@
                 "tags": [
                     "Business",
                     "Copywriting"
+                ],
+                "link": "https://www.jasper.ai",
+                "logo": "https://favicon.im/jasper.ai",
+                "searchKeywords": "IA marketing pour les entreprises. Mots-clés: articles, auteur, b2b, blog, business, campagne, commerce, copie, copywriting, entreprise, jasper, livre, marketing, mots, persuasion, pme, pro, publicité, rédaction, rédaction & marketing, réseaux, seo, slogan, social, société, startup, texte, vente, écriture",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -811,6 +1357,12 @@
                 "tags": [
                     "Marketing",
                     "SaaS"
+                ],
+                "link": "https://www.copy.ai",
+                "logo": "https://favicon.im/copy.ai",
+                "searchKeywords": "Génération de posts sociaux. Mots-clés: articles, blog, campagne, copie, copy.ai, copywriting, croissance, marketing, mots, promotion, publicité, rédaction & marketing, réseaux, réseaux sociaux, saas, seo, social, texte, vente, écriture",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -821,6 +1373,12 @@
                 "tags": [
                     "Blog",
                     "SEO"
+                ],
+                "link": "https://writesonic.com",
+                "logo": "https://favicon.im/writesonic.com",
+                "searchKeywords": "Rédaction d'articles SEO. Mots-clés: article, articles, blog, campagne, contenu, copie, copywriting, google, mots, mots-clés, positionnement, post, publicité, rédaction, rédaction & marketing, référencement, réseaux, seo, site perso, social, texte, trafic, web, wordpress, writesonic, écriture",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -831,6 +1389,12 @@
                 "tags": [
                     "SEO",
                     "Content"
+                ],
+                "link": "https://surferseo.com",
+                "logo": "https://favicon.im/surferseo.com",
+                "searchKeywords": "Optimisation sémantique. Mots-clés: articles, blog, campagne, content, copie, copywriting, google, mots, mots-clés, positionnement, publicité, rédaction & marketing, référencement, réseaux, seo, social, surfer seo, texte, trafic, web, écriture",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -841,6 +1405,12 @@
                 "tags": [
                     "Rédaction",
                     "Études"
+                ],
+                "link": "https://quillbot.com",
+                "logo": "https://quillbot.com/favicon.ico",
+                "searchKeywords": "Reformulation et correction. Mots-clés: articles, blog, campagne, copie, copywriting, mots, publicité, quillbot, rédaction, rédaction & marketing, réseaux, seo, social, texte, écriture, études",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -851,6 +1421,12 @@
                 "tags": [
                     "Email",
                     "English"
+                ],
+                "link": "https://www.grammarly.com",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/grammarly.svg",
+                "searchKeywords": "Correction grammaticale et ton. Mots-clés: anglais, articles, blog, campagne, copie, copywriting, courriel, email, english, gmail, grammarly, langue, mail, messagerie, mots, newsletter, outlook, publicité, rédaction & marketing, réseaux, seo, social, texte, traduction, écriture",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -861,6 +1437,12 @@
                 "tags": [
                     "Français",
                     "Rédaction"
+                ],
+                "link": "https://www.merciapp.com",
+                "logo": "https://favicon.im/merciapp.com",
+                "searchKeywords": "Correcteur français performant. Mots-clés: articles, blog, campagne, copie, copywriting, français, merciapp, mots, publicité, rédaction, rédaction & marketing, réseaux, seo, social, texte, écriture",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -870,6 +1452,12 @@
                 "color": "text-white",
                 "tags": [
                     "SocialMedia"
+                ],
+                "link": "https://hypefury.com",
+                "logo": "https://hypefury.com/wp-content/uploads/2021/08/Website-logo.png",
+                "searchKeywords": "Automatisation pour X/Twitter. Mots-clés: actualités, articles, blog, campagne, community management, contenu, copie, copywriting, facebook, hypefury, instagram, journalisme, linkedin, mots, presse, publicité, rédaction & marketing, réseaux, seo, social, socialmedia, texte, tiktok, twitter, écriture",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -880,6 +1468,12 @@
                 "tags": [
                     "Data",
                     "Ads"
+                ],
+                "link": "https://anyword.com",
+                "logo": "https://favicon.im/anyword.com",
+                "searchKeywords": "Prédiction de performance publicitaire. Mots-clés: ads, analyse, anyword, articles, base de données, big data, blog, campagne, chiffres, copie, copywriting, data, données, facebook ads, google ads, marketing, mots, promotion, publicité, rédaction & marketing, réseaux, seo, social, sponsor, statistiques, texte, écriture",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -890,6 +1484,12 @@
                 "tags": [
                     "Simple",
                     "Writing"
+                ],
+                "link": "https://rytr.me",
+                "logo": "https://rytr.me/favicon.ico",
+                "searchKeywords": "Assistant d'écriture abordable. Mots-clés: articles, auteur, blog, campagne, copie, copywriting, livre, mots, publicité, rytr, rédaction, rédaction & marketing, réseaux, seo, simple, social, texte, writing, écriture",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -900,6 +1500,12 @@
                 "tags": [
                     "SEO",
                     "Workflow"
+                ],
+                "link": "https://www.frase.io",
+                "logo": "https://favicon.im/frase.io",
+                "searchKeywords": "Planification de contenu SEO. Mots-clés: articles, blog, campagne, copie, copywriting, emploi, entreprise, frase, google, mots, mots-clés, positionnement, publicité, rédaction & marketing, référencement, réseaux, seo, social, texte, trafic, travail, tâches, web, workflow, écriture, équipe",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -909,6 +1515,12 @@
                 "color": "text-white",
                 "tags": [
                     "Editing"
+                ],
+                "link": "https://www.wordtune.com",
+                "logo": "https://favicon.im/wordtune.com",
+                "searchKeywords": "Amélioration du style d'écriture. Mots-clés: articles, blog, campagne, copie, copywriting, editing, mots, publicité, rédaction & marketing, réseaux, seo, social, texte, wordtune, écriture",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -918,6 +1530,12 @@
                 "color": "text-white",
                 "tags": [
                     "Ecommerce"
+                ],
+                "link": "https://www.hypotenuse.ai",
+                "logo": "https://favicon.im/hypotenuse.ai",
+                "searchKeywords": "Génération de fiches produits. Mots-clés: achats, articles, blog, boutique, campagne, copie, copywriting, ecommerce, hypotenuse ai, mots, panier, produits, publicité, rédaction & marketing, réseaux, seo, shopify, social, texte, vente en ligne, écriture",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             }
         ]
@@ -933,6 +1551,12 @@
                 "tags": [
                     "Notes",
                     "Collaboration"
+                ],
+                "link": "https://www.notion.so/product/ai",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/notion.svg",
+                "searchKeywords": "IA intégrée aux notes et projets. Mots-clés: agenda, automation, calendrier, collaboration, efficacité, ensemble, gain de temps, gestion, multi-utilisateurs, notes, notion ai, organisation, outil, partage, planning, productivité, projet, travail, tâches, équipe",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -943,6 +1567,12 @@
                 "tags": [
                     "Zoom",
                     "Meetings"
+                ],
+                "link": "https://otter.ai",
+                "logo": "https://otter.ai/favicon.ico",
+                "searchKeywords": "Transcription et résumé de réunions. Mots-clés: agenda, automation, calendrier, efficacité, gain de temps, gestion, google meet, meetings, organisation, otter.ai, outil, planning, productivité, réunion, teams, transcription, travail, tâches, visio, zoom",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -953,6 +1583,12 @@
                 "tags": [
                     "Sales",
                     "Workflow"
+                ],
+                "link": "https://fireflies.ai",
+                "logo": "https://fireflies.ai/favicon.ico",
+                "searchKeywords": "Analyse les appels d'équipe. Mots-clés: agenda, automation, calendrier, efficacité, emploi, entreprise, fireflies.ai, gain de temps, gestion, organisation, outil, planning, productivité, sales, travail, tâches, workflow, équipe",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -963,6 +1599,12 @@
                 "tags": [
                     "Slides",
                     "Design"
+                ],
+                "link": "https://gamma.app",
+                "logo": "https://favicon.im/gamma.app",
+                "searchKeywords": "Création de présentations et sites. Mots-clés: agenda, automation, calendrier, création, design, efficacité, esthétique, gain de temps, gamma, gestion, graphisme, interface, maquette, organisation, outil, planning, productivité, slides, travail, tâches, ui, ux",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -973,6 +1615,12 @@
                 "tags": [
                     "TimeMgmt",
                     "Planning"
+                ],
+                "link": "https://www.usemotion.com",
+                "logo": "https://www.usemotion.com/favicon.ico",
+                "searchKeywords": "Calendrier intelligent. Mots-clés: agenda, automation, calendrier, efficacité, gain de temps, gestion, motion, organisation, outil, planning, productivité, timemgmt, travail, tâches",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -983,6 +1631,12 @@
                 "tags": [
                     "Automation",
                     "NoCode"
+                ],
+                "link": "https://zapier.com/central",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/zapier.svg",
+                "searchKeywords": "IA pour automatisations. Mots-clés: agenda, application web, automation, automatisation, calendrier, création facile, css, développement, efficacité, gain de temps, gestion, html, javascript, logiciel, nocode, organisation, outil, planning, processus, productivité, programmation, python, sans code, script, site, travail, tâches, visuel, workflow, zapier, zapier central",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -993,6 +1647,12 @@
                 "tags": [
                     "Email",
                     "Pro"
+                ],
+                "link": "https://superhuman.com",
+                "logo": "https://favicon.im/superhuman.com",
+                "searchKeywords": "Client mail ultra rapide. Mots-clés: agenda, automation, avancé, b2b, calendrier, courriel, efficacité, email, entreprise, expert, gain de temps, gestion, gmail, mail, messagerie, newsletter, organisation, outil, outlook, planning, pro, productivité, professionnel, qualité, superhuman, travail, tâches",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1003,6 +1663,12 @@
                 "tags": [
                     "Assistant",
                     "Email"
+                ],
+                "link": "https://www.shortwave.com",
+                "logo": "https://www.shortwave.com/favicon.ico",
+                "searchKeywords": "IA pour Gmail. Mots-clés: agenda, aide, assistant, automation, calendrier, chatbot, compagnon, courriel, efficacité, email, gain de temps, gestion, gmail, mail, messagerie, newsletter, organisation, outil, outlook, planning, productivité, shortwave, soutien, travail, tâches, virtuel",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1013,6 +1679,12 @@
                 "tags": [
                     "Slides",
                     "Creative"
+                ],
+                "link": "https://tome.app",
+                "logo": "https://favicon.im/tome.app",
+                "searchKeywords": "Storytelling et présentations. Mots-clés: agenda, automation, calendrier, creative, efficacité, gain de temps, gestion, organisation, outil, planning, productivité, slides, tome, travail, tâches",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1022,6 +1694,12 @@
                 "color": "text-white",
                 "tags": [
                     "Memory"
+                ],
+                "link": "https://www.limitless.ai/",
+                "logo": "https://favicon.im/rewind.ai",
+                "searchKeywords": "Moteur de recherche pour Mac/PC. Mots-clés: agenda, automation, calendrier, efficacité, gain de temps, gestion, memory, organisation, outil, planning, productivité, rewind.ai, travail, tâches",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1031,6 +1709,12 @@
                 "color": "text-white",
                 "tags": [
                     "InboxZero"
+                ],
+                "link": "https://www.sanebox.com",
+                "logo": "https://www.sanebox.com/favicon.ico",
+                "searchKeywords": "Gestion intelligente des emails. Mots-clés: agenda, automation, calendrier, efficacité, gain de temps, gestion, inboxzero, organisation, outil, planning, productivité, sanebox, travail, tâches",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1040,6 +1724,12 @@
                 "color": "text-white",
                 "tags": [
                     "DailyPlanning"
+                ],
+                "link": "https://www.beforesunset.ai",
+                "logo": "https://favicon.im/beforesunset.ai",
+                "searchKeywords": "Planification de journée par IA. Mots-clés: agenda, automation, beforesunset, calendrier, dailyplanning, efficacité, gain de temps, gestion, organisation, outil, planning, productivité, travail, tâches",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1049,6 +1739,12 @@
                 "color": "text-white",
                 "tags": [
                     "Management"
+                ],
+                "link": "https://fellow.app",
+                "logo": "https://favicon.im/fellow.app",
+                "searchKeywords": "Gestion de réunions et agendas. Mots-clés: agenda, automation, calendrier, efficacité, fellow.app, gain de temps, gestion, management, organisation, outil, planning, productivité, travail, tâches",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             }
         ]
@@ -1064,6 +1760,12 @@
                 "tags": [
                     "Recherche",
                     "Podcast"
+                ],
+                "link": "https://notebooklm.google",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googlegemini.svg",
+                "searchKeywords": "Analyse de sources par Google. Mots-clés: académique, apprentissage, audio, cours, documents, google, investigation, moteur, notebooklm, podcast, radio, recherche, recherche & éducation, réponses, savoir, science, sources, spotify, trouver, tuteur, université, voix, web, école, émission, études, étudiant",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1074,6 +1776,12 @@
                 "tags": [
                     "Science",
                     "Papers"
+                ],
+                "link": "https://elicit.org",
+                "logo": "https://elicit.org/favicon.ico",
+                "searchKeywords": "Assistant de recherche scientifique. Mots-clés: académique, apprentissage, cours, documents, elicit, papers, recherche & éducation, savoir, science, tuteur, université, école, études, étudiant",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1084,6 +1792,12 @@
                 "tags": [
                     "Science",
                     "Evidence"
+                ],
+                "link": "https://consensus.app",
+                "logo": "https://favicon.im/consensus.app",
+                "searchKeywords": "Recherche basée sur des preuves. Mots-clés: académique, apprentissage, consensus, cours, documents, evidence, recherche & éducation, savoir, science, tuteur, université, école, études, étudiant",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1093,6 +1807,12 @@
                 "color": "text-white",
                 "tags": [
                     "Analyse"
+                ],
+                "link": "https://www.chatpdf.com",
+                "logo": "https://www.chatpdf.com/favicon.ico",
+                "searchKeywords": "Discuter avec des fichiers PDF. Mots-clés: académique, analyse, apprentissage, chatpdf, compréhension, cours, documents, données, insights, rapports, recherche & éducation, savoir, science, statistiques, tuteur, université, école, études, étudiant",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1102,6 +1822,12 @@
                 "color": "text-white",
                 "tags": [
                     "Data"
+                ],
+                "link": "https://www.humata.ai",
+                "logo": "https://www.humata.ai/favicon.ico",
+                "searchKeywords": "Analyse de documents techniques. Mots-clés: académique, analyse, apprentissage, base de données, big data, chiffres, cours, data, documents, données, humata.ai, recherche & éducation, savoir, science, statistiques, tuteur, université, école, études, étudiant",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1111,6 +1837,12 @@
                 "color": "text-white",
                 "tags": [
                     "Bibliographies"
+                ],
+                "link": "https://www.researchrabbit.ai",
+                "logo": "https://favicon.im/researchrabbit.ai",
+                "searchKeywords": "Cartographie d'articles scientifiques. Mots-clés: académique, apprentissage, bibliographies, cours, documents, recherche & éducation, researchrabbit, savoir, science, tuteur, université, école, études, étudiant",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1120,6 +1852,12 @@
                 "color": "text-white",
                 "tags": [
                     "Database"
+                ],
+                "link": "https://www.semanticscholar.org",
+                "logo": "https://www.semanticscholar.org/favicon.ico",
+                "searchKeywords": "Moteur de recherche académique. Mots-clés: académique, analyse, apprentissage, base de données, big data, chiffres, cours, database, documents, données, recherche & éducation, savoir, science, semantic scholar, statistiques, tuteur, université, école, études, étudiant",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1129,6 +1867,12 @@
                 "color": "text-white",
                 "tags": [
                     "Véracité"
+                ],
+                "link": "https://scite.ai",
+                "logo": "https://scite.ai/favicon.ico",
+                "searchKeywords": "Vérification des citations. Mots-clés: académique, apprentissage, cours, documents, recherche & éducation, savoir, science, scite.ai, tuteur, université, véracité, école, études, étudiant",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1138,6 +1882,12 @@
                 "color": "text-white",
                 "tags": [
                     "Reading"
+                ],
+                "link": "https://www.scholarcy.com",
+                "logo": "https://favicon.im/scholarcy.com",
+                "searchKeywords": "Résumé d'articles complexes. Mots-clés: académique, apprentissage, cours, documents, reading, recherche & éducation, savoir, scholarcy, science, tuteur, université, école, études, étudiant",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1147,6 +1897,12 @@
                 "color": "text-white",
                 "tags": [
                     "Education"
+                ],
+                "link": "https://www.khanacademy.org/khanmigo",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Khan_Academy_logo.svg",
+                "searchKeywords": "Tuteur Khan Academy. Mots-clés: académique, apprentissage, cours, documents, education, formation, khanmigo, professeur, pédagogie, recherche & éducation, savoir, science, tuteur, tutoriel, université, école, études, étudiant",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1157,6 +1913,12 @@
                 "tags": [
                     "Search",
                     "Pro"
+                ],
+                "link": "https://www.perplexity.ai/pro",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/perplexity.svg",
+                "searchKeywords": "Recherche avancée et analyse. Mots-clés: académique, apprentissage, avancé, b2b, cours, documents, entreprise, expert, perplexity pro, pro, professionnel, qualité, recherche & éducation, savoir, science, search, travail, tuteur, université, école, études, étudiant",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1166,6 +1928,12 @@
                 "color": "text-white",
                 "tags": [
                     "Learning"
+                ],
+                "link": "https://www.explainpaper.com",
+                "logo": "https://www.explainpaper.com/favicon.ico",
+                "searchKeywords": "Explique les papiers complexes. Mots-clés: académique, apprentissage, cours, documents, explainpaper, formation, learning, professeur, pédagogie, recherche & éducation, savoir, science, tuteur, tutoriel, université, école, études, étudiant",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             }
         ]
@@ -1181,6 +1949,12 @@
                 "tags": [
                     "WebDesign",
                     "UI"
+                ],
+                "link": "https://www.framer.com",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/framer.svg",
+                "searchKeywords": "Génération de sites web design. Mots-clés: app builder, création, création web, en ligne, esthétique, framer ai, graphisme, html, hébergement, interface, internet, landing page, maquette, navigateur, no-code & web, nocode, plateforme, saas, sans code, site, site internet, ui, ux, webdesign",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1190,6 +1964,12 @@
                 "color": "text-white",
                 "tags": [
                     "WordPress"
+                ],
+                "link": "https://10web.io",
+                "logo": "https://favicon.im/10web.io",
+                "searchKeywords": "Sites WordPress par IA. Mots-clés: 10web, app builder, création web, hébergement, landing page, no-code & web, nocode, plateforme, saas, sans code, site internet, wordpress",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1200,6 +1980,12 @@
                 "tags": [
                     "PME",
                     "Fast"
+                ],
+                "link": "https://durable.co",
+                "logo": "https://durable.co/favicon.ico",
+                "searchKeywords": "Site pro en 30 secondes. Mots-clés: app builder, création web, durable, fast, hébergement, immédiat, landing page, no-code & web, nocode, plateforme, pme, rapide, saas, sans code, site internet, temps réel, vitesse",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1209,6 +1995,12 @@
                 "color": "text-white",
                 "tags": [
                     "Pro"
+                ],
+                "link": "https://webflow.com",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/webflow.svg",
+                "searchKeywords": "Assistant pour sites haut de gamme. Mots-clés: app builder, avancé, b2b, création web, entreprise, expert, hébergement, landing page, no-code & web, nocode, plateforme, pro, professionnel, qualité, saas, sans code, site internet, travail, webflow ai",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1218,6 +2010,12 @@
                 "color": "text-white",
                 "tags": [
                     "NoCode"
+                ],
+                "link": "https://www.softr.io",
+                "logo": "https://www.softr.io/favicon.ico",
+                "searchKeywords": "Apps depuis Airtable. Mots-clés: app builder, application web, création facile, création web, css, développement, html, hébergement, javascript, landing page, logiciel, no-code & web, nocode, plateforme, programmation, python, saas, sans code, script, site, site internet, softr, visuel",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1227,6 +2025,12 @@
                 "color": "text-white",
                 "tags": [
                     "Logiciel"
+                ],
+                "link": "https://bubble.io",
+                "logo": "https://favicon.im/bubble.io",
+                "searchKeywords": "Création d'apps web complexes. Mots-clés: app builder, bubble, création web, hébergement, landing page, logiciel, no-code & web, nocode, plateforme, saas, sans code, site internet",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1237,6 +2041,12 @@
                 "tags": [
                     "Startup",
                     "MVP"
+                ],
+                "link": "https://mixo.io",
+                "logo": "https://mixo.io/favicon.ico",
+                "searchKeywords": "Lancement de landing pages. Mots-clés: app builder, artiste, création, création web, dessin, hébergement, illustration, landing page, mixo, mvp, no-code & web, nocode, peinture, plateforme, saas, sans code, site internet, startup, visuel",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1247,6 +2057,12 @@
                 "tags": [
                     "Web",
                     "SEO"
+                ],
+                "link": "https://butternut.ai",
+                "logo": "https://favicon.im/butternut.ai",
+                "searchKeywords": "Générateur de site instantané. Mots-clés: app builder, butternut ai, création web, en ligne, google, html, hébergement, internet, landing page, mots-clés, navigateur, no-code & web, nocode, plateforme, positionnement, référencement, saas, sans code, seo, site, site internet, trafic, web",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             }
         ]
@@ -1261,6 +2077,12 @@
                 "color": "text-white",
                 "tags": [
                     "BienEtre"
+                ],
+                "link": "https://www.rosebud.app",
+                "logo": "https://favicon.im/rosebud.app",
+                "searchKeywords": "Journal intime IA. Mots-clés: autre, bienetre, calme, divers, détente, fun, loisir, mental, outils pratiques, psychologie, rosebud, santé, utilitaires, zen",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1270,6 +2092,12 @@
                 "color": "text-white",
                 "tags": [
                     "Speaking"
+                ],
+                "link": "https://www.poised.com",
+                "logo": "https://favicon.im/poised.com",
+                "searchKeywords": "Coach de communication. Mots-clés: autre, divers, fun, loisir, outils pratiques, poised, speaking, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1279,6 +2107,12 @@
                 "color": "text-white",
                 "tags": [
                     "Legal"
+                ],
+                "link": "https://donotpay.com",
+                "logo": "https://favicon.im/donotpay.com",
+                "searchKeywords": "L'avocat robot. Mots-clés: autre, avocat, contrat, divers, donotpay, droit, fun, juridique, legal, lois, loisir, outils pratiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1288,6 +2122,12 @@
                 "color": "text-white",
                 "tags": [
                     "Social"
+                ],
+                "link": "https://replika.ai",
+                "logo": "https://replika.ai/favicon.ico",
+                "searchKeywords": "Compagnon virtuel. Mots-clés: autre, community management, divers, facebook, fun, instagram, linkedin, loisir, outils pratiques, replika, réseaux, social, tiktok, twitter, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1297,6 +2137,12 @@
                 "color": "text-white",
                 "tags": [
                     "Dev"
+                ],
+                "link": "https://www.warp.dev",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/warp.svg",
+                "searchKeywords": "Terminal intelligent. Mots-clés: autre, code, dev, divers, développement, fun, github, ingénieur, logiciel, loisir, outils pratiques, programmation, utilitaires, warp",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1306,6 +2152,12 @@
                 "color": "text-white",
                 "tags": [
                     "Data"
+                ],
+                "link": "https://www.tableau.com/products/pulse",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png",
+                "searchKeywords": "Analyse de données business. Mots-clés: analyse, autre, base de données, big data, chiffres, data, divers, données, fun, loisir, outils pratiques, statistiques, tableau pulse, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1315,6 +2167,12 @@
                 "color": "text-white",
                 "tags": [
                     "Santé"
+                ],
+                "link": "https://www.snooze.ai",
+                "logo": "https://www.snooze.ai/favicon.ico",
+                "searchKeywords": "Optimisation du sommeil. Mots-clés: autre, divers, fun, loisir, outils pratiques, santé, snooze, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1324,6 +2182,12 @@
                 "color": "text-white",
                 "tags": [
                     "Nature"
+                ],
+                "link": "https://plantin.app",
+                "logo": "https://favicon.im/plantin.app",
+                "searchKeywords": "Identification des plantes. Mots-clés: autre, divers, fun, loisir, nature, outils pratiques, plantin, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1333,6 +2197,12 @@
                 "color": "text-white",
                 "tags": [
                     "SoftSkills"
+                ],
+                "link": "https://yoodli.ai",
+                "logo": "https://yoodli.ai/favicon.ico",
+                "searchKeywords": "Analyse d'élocution. Mots-clés: autre, divers, fun, loisir, outils pratiques, softskills, utilitaires, yoodli",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1342,6 +2212,12 @@
                 "color": "text-white",
                 "tags": [
                     "Enterprise"
+                ],
+                "link": "https://www.glean.com",
+                "logo": "https://favicon.im/glean.com",
+                "searchKeywords": "Recherche interne entreprise. Mots-clés: autre, divers, enterprise, fun, glean, loisir, outils pratiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1352,6 +2228,12 @@
                 "tags": [
                     "Privacy",
                     "Local"
+                ],
+                "link": "https://jan.ai",
+                "logo": "https://jan.ai/favicon.ico",
+                "searchKeywords": "IA locale et privée. Mots-clés: autre, divers, fun, jan, local, loisir, outils pratiques, privacy, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1361,6 +2243,12 @@
                 "color": "text-white",
                 "tags": [
                     "Models"
+                ],
+                "link": "https://lmstudio.ai",
+                "logo": "https://lmstudio.ai/favicon.ico",
+                "searchKeywords": "Exécuter des LLMs en local. Mots-clés: autre, divers, fun, lm studio, loisir, models, outils pratiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1370,6 +2258,12 @@
                 "color": "text-white",
                 "tags": [
                     "Hardware"
+                ],
+                "link": "https://groq.com",
+                "logo": "https://groq.com/favicon.ico",
+                "searchKeywords": "Inférence ultra rapide. Mots-clés: autre, divers, fun, groq, hardware, loisir, outils pratiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1379,6 +2273,12 @@
                 "color": "text-white",
                 "tags": [
                     "API"
+                ],
+                "link": "https://openrouter.ai",
+                "logo": "https://openrouter.ai/favicon.ico",
+                "searchKeywords": "API pour tous les LLMs. Mots-clés: api, autre, backend, divers, développeur, endpoint, fun, intégration, loisir, openrouter, outils pratiques, programmation, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1388,6 +2288,12 @@
                 "color": "text-white",
                 "tags": [
                     "Prompts"
+                ],
+                "link": "https://promptbase.com",
+                "logo": "https://favicon.im/promptbase.com",
+                "searchKeywords": "Marché de prompts. Mots-clés: autre, avancé, b2b, divers, entreprise, expert, fun, loisir, outils pratiques, professionnel, promptbase, prompts, qualité, travail, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1397,6 +2303,12 @@
                 "color": "text-white",
                 "tags": [
                     "Edu"
+                ],
+                "link": "https://learnprompting.org",
+                "logo": "https://learnprompting.org/favicon.ico",
+                "searchKeywords": "Cours de prompt engineering. Mots-clés: apprentissage, autre, divers, edu, formation, fun, learn prompting, loisir, outils pratiques, professeur, pédagogie, tutoriel, utilitaires, école",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1406,6 +2318,12 @@
                 "color": "text-white",
                 "tags": [
                     "Automation"
+                ],
+                "link": "https://www.make.com",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/make.svg",
+                "searchKeywords": "Automatisations complexes. Mots-clés: automation, automatisation, autre, divers, fun, gain de temps, integromat (make), loisir, outils pratiques, processus, utilitaires, workflow, zapier",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1415,6 +2333,12 @@
                 "color": "text-white",
                 "tags": [
                     "Meetings"
+                ],
+                "link": "https://tldv.io",
+                "logo": "https://tldv.io/favicon.ico",
+                "searchKeywords": "Enregistre et résume Google Meet/Zoom. Mots-clés: agenda, autre, divers, fun, google meet, loisir, meetings, outils pratiques, réunion, teams, tldv, transcription, utilitaires, visio, zoom",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1425,6 +2349,12 @@
                 "tags": [
                     "Humor",
                     "Social"
+                ],
+                "link": "https://www.supermeme.ai",
+                "logo": "https://www.supermeme.ai/favicon.ico",
+                "searchKeywords": "Génération de mèmes par texte. Mots-clés: autre, community management, divers, facebook, fun, humor, instagram, linkedin, loisir, outils pratiques, réseaux, social, supermeme.ai, tiktok, twitter, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1434,6 +2364,12 @@
                 "color": "text-white",
                 "tags": [
                     "Utility"
+                ],
+                "link": "https://www.watermarkremover.io",
+                "logo": "https://www.watermarkremover.io/favicon.ico",
+                "searchKeywords": "Enlever les filigranes. Mots-clés: autre, divers, fun, loisir, outils pratiques, utilitaires, utility, watermarkremover.ai",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1443,6 +2379,12 @@
                 "color": "text-white",
                 "tags": [
                     "Branding"
+                ],
+                "link": "https://namelix.com",
+                "logo": "https://favicon.im/namelix.com",
+                "searchKeywords": "Générateur de noms de business. Mots-clés: autre, branding, charte graphique, divers, entreprise, fun, identité, logo, loisir, marque, namelix, outils pratiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1452,6 +2394,12 @@
                 "color": "text-white",
                 "tags": [
                     "Design"
+                ],
+                "link": "https://brandmark.io",
+                "logo": "https://favicon.im/brandmark.io",
+                "searchKeywords": "Création de logos simplifiée. Mots-clés: autre, brandmark, création, design, divers, esthétique, fun, graphisme, interface, loisir, maquette, outils pratiques, ui, utilitaires, ux",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1461,6 +2409,12 @@
                 "color": "text-white",
                 "tags": [
                     "Graphics"
+                ],
+                "link": "https://stockimg.ai",
+                "logo": "https://stockimg.ai/favicon.ico",
+                "searchKeywords": "Générateur de couvertures et affiches. Mots-clés: autre, dessin, divers, fun, graphics, illustration, image, loisir, outils pratiques, stockimg.ai, utilitaires, vecteur, visuel",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1470,6 +2424,12 @@
                 "color": "text-white",
                 "tags": [
                     "Slides"
+                ],
+                "link": "https://www.beautiful.ai",
+                "logo": "https://www.beautiful.ai/favicon.ico",
+                "searchKeywords": "Présentations design intelligentes. Mots-clés: autre, beautiful.ai, divers, fun, loisir, outils pratiques, slides, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1479,6 +2439,12 @@
                 "color": "text-white",
                 "tags": [
                     "Sales"
+                ],
+                "link": "https://www.decktopus.com",
+                "logo": "https://favicon.im/decktopus.com",
+                "searchKeywords": "Générateur de decks de vente. Mots-clés: autre, decktopus, divers, fun, loisir, outils pratiques, sales, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1489,6 +2455,12 @@
                 "tags": [
                     "Audio",
                     "Meetings"
+                ],
+                "link": "https://krisp.ai",
+                "logo": "https://favicon.im/krisp.ai",
+                "searchKeywords": "Suppression de bruit de fond. Mots-clés: agenda, audio, autre, bruitage, divers, fun, google meet, krisp, loisir, meetings, micro, musique, outils pratiques, réunion, son, teams, transcription, utilitaires, visio, voix, zoom, écoute",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1498,6 +2470,12 @@
                 "color": "text-white",
                 "tags": [
                     "Localization"
+                ],
+                "link": "https://www.rask.ai",
+                "logo": "https://favicon.im/rask.ai",
+                "searchKeywords": "Traduction et doublage vidéo. Mots-clés: autre, divers, fun, localization, loisir, outils pratiques, rask.ai, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1507,6 +2485,12 @@
                 "color": "text-white",
                 "tags": [
                     "Mobile"
+                ],
+                "link": "https://elevenlabs.io/text-to-speech",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/elevenlabs.svg",
+                "searchKeywords": "App de lecture audio. Mots-clés: autre, divers, elevenlabs reader, fun, loisir, mobile, outils pratiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1516,6 +2500,12 @@
                 "color": "text-white",
                 "tags": [
                     "Audio"
+                ],
+                "link": "https://cleanvoice.ai",
+                "logo": "https://cleanvoice.ai/favicon.ico",
+                "searchKeywords": "Nettoyage automatique de podcast. Mots-clés: audio, autre, bruitage, cleanvoice.ai, divers, fun, loisir, micro, musique, outils pratiques, son, utilitaires, voix, écoute",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1525,6 +2515,12 @@
                 "color": "text-white",
                 "tags": [
                     "Creators"
+                ],
+                "link": "https://podcastle.ai",
+                "logo": "https://favicon.im/podcastle.ai",
+                "searchKeywords": "Studio de podcast tout-en-un. Mots-clés: autre, creators, divers, fun, loisir, outils pratiques, podcastle, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1534,6 +2530,12 @@
                 "color": "text-white",
                 "tags": [
                     "Media"
+                ],
+                "link": "https://riverside.fm",
+                "logo": "https://favicon.im/riverside.fm",
+                "searchKeywords": "Transcription et édition podcast. Mots-clés: actualités, autre, contenu, divers, fun, journalisme, loisir, media, outils pratiques, presse, riverside.fm ai, réseaux, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1543,6 +2545,12 @@
                 "color": "text-white",
                 "tags": [
                     "Video"
+                ],
+                "link": "https://invideo.io/studio",
+                "logo": "https://invideo.io/favicon.ico",
+                "searchKeywords": "Éditeur vidéo assisté. Mots-clés: autre, caméra, clip, divers, film, fun, invideo studio, loisir, montage, outils pratiques, tiktok, utilitaires, video, vlog, youtube",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1552,6 +2560,12 @@
                 "color": "text-white",
                 "tags": [
                     "Ads"
+                ],
+                "link": "https://lumen5.com",
+                "logo": "https://favicon.im/lumen5.com",
+                "searchKeywords": "Vidéo marketing automatique. Mots-clés: ads, autre, campagne, divers, facebook ads, fun, google ads, loisir, lumen5, marketing, outils pratiques, promotion, publicité, sponsor, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1561,6 +2575,12 @@
                 "color": "text-white",
                 "tags": [
                     "SocialMedia"
+                ],
+                "link": "https://www.mojo-app.com",
+                "logo": "https://favicon.im/mojo-app.com",
+                "searchKeywords": "Stories animées pour Instagram. Mots-clés: actualités, autre, community management, contenu, divers, facebook, fun, instagram, journalisme, linkedin, loisir, mojo, outils pratiques, presse, réseaux, socialmedia, tiktok, twitter, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1570,6 +2590,12 @@
                 "color": "text-white",
                 "tags": [
                     "VideoEditing"
+                ],
+                "link": "https://www.capcut.com",
+                "logo": "https://favicon.im/capcut.com",
+                "searchKeywords": "Montage pro facilité. Mots-clés: autre, caméra, capcut desktop, clip, divers, film, fun, loisir, montage, outils pratiques, tiktok, utilitaires, videoediting, vlog, youtube",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1579,6 +2605,12 @@
                 "color": "text-white",
                 "tags": [
                     "MobileApp"
+                ],
+                "link": "https://inshot.com",
+                "logo": "https://inshot.com/favicon.ico",
+                "searchKeywords": "Éditeur mobile avec filtres IA. Mots-clés: android, application, autre, divers, fun, inshot ai, ios, loisir, mobile, mobileapp, outils pratiques, smartphone, tablette, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1588,6 +2620,12 @@
                 "color": "text-white",
                 "tags": [
                     "Creative"
+                ],
+                "link": "https://www.adobe.com/express",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobe.svg",
+                "searchKeywords": "Design rapide avec IA. Mots-clés: adobe express, autre, creative, divers, fun, loisir, outils pratiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1597,6 +2635,12 @@
                 "color": "text-white",
                 "tags": [
                     "Art"
+                ],
+                "link": "https://leonardo.ai",
+                "logo": "https://favicon.im/leonardo.ai",
+                "searchKeywords": "Édition d'image infinie. Mots-clés: art, artiste, autre, création, dessin, divers, fun, illustration, leonardo canvas, loisir, outils pratiques, peinture, utilitaires, visuel",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1606,6 +2650,12 @@
                 "color": "text-white",
                 "tags": [
                     "Utility"
+                ],
+                "link": "https://www.remove.bg",
+                "logo": "https://www.remove.bg/favicon.ico",
+                "searchKeywords": "Suppression d'arrière-plan photo. Mots-clés: autre, divers, fun, loisir, outils pratiques, remove.bg, utilitaires, utility",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1615,6 +2665,12 @@
                 "color": "text-white",
                 "tags": [
                     "Editing"
+                ],
+                "link": "https://cleanup.pictures",
+                "logo": "https://cleanup.pictures/favicon.ico",
+                "searchKeywords": "Enlever des objets sur les photos. Mots-clés: autre, cleanup.pictures, divers, editing, fun, loisir, outils pratiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1624,6 +2680,12 @@
                 "color": "text-white",
                 "tags": [
                     "Music"
+                ],
+                "link": "https://vocalremover.org",
+                "logo": "https://vocalremover.org/favicon.ico",
+                "searchKeywords": "Isoler la voix de la musique. Mots-clés: audio, autre, chanson, divers, fun, loisir, music, musique, mélodie, outils pratiques, piste, rythme, son, utilitaires, vocal remover",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1633,6 +2695,12 @@
                 "color": "text-white",
                 "tags": [
                     "Music"
+                ],
+                "link": "https://soundraw.io",
+                "logo": "https://soundraw.io/favicon.ico",
+                "searchKeywords": "Beat maker IA. Mots-clés: audio, autre, chanson, divers, fun, loisir, music, musique, mélodie, outils pratiques, piste, rythme, son, soundraw.io, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1642,6 +2710,12 @@
                 "color": "text-white",
                 "tags": [
                     "Gaming"
+                ],
+                "link": "https://www.aiva.ai",
+                "logo": "https://www.aiva.ai/favicon.ico",
+                "searchKeywords": "IA de composition pour jeux vidéo. Mots-clés: aiva.ai, autre, divers, fun, gaming, loisir, outils pratiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1651,6 +2725,12 @@
                 "color": "text-white",
                 "tags": [
                     "Stock"
+                ],
+                "link": "https://www.shutterstock.com/g/amper-music",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/shutterstock.svg",
+                "searchKeywords": "Musique pour créateurs (Shutterstock). Mots-clés: amper music, autre, divers, fun, loisir, outils pratiques, stock, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1660,6 +2740,12 @@
                 "color": "text-white",
                 "tags": [
                     "Research"
+                ],
+                "link": "https://openai.com/research/jukebox",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg",
+                "searchKeywords": "Modèle musical d'OpenAI. Mots-clés: académique, autre, divers, fun, google, jukebox, loisir, moteur, outils pratiques, research, réponses, science, sources, trouver, utilitaires, web",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1669,6 +2755,12 @@
                 "color": "text-white",
                 "tags": [
                     "VoiceModels"
+                ],
+                "link": "https://www.weights.gg",
+                "logo": "https://www.weights.gg/favicon.ico",
+                "searchKeywords": "Base de données de modèles vocaux. Mots-clés: audio, autre, chant, clone, divers, fun, loisir, outils pratiques, parole, synthèse, utilitaires, voicemodels, voix, weights.gg",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1678,6 +2770,12 @@
                 "color": "text-white",
                 "tags": [
                     "Streaming"
+                ],
+                "link": "https://www.fineshare.com",
+                "logo": "https://www.fineshare.com/favicon.ico",
+                "searchKeywords": "Modificateur de voix en temps réel. Mots-clés: autre, divers, fineshare, fun, loisir, outils pratiques, streaming, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1687,6 +2785,12 @@
                 "color": "text-white",
                 "tags": [
                     "Gaming"
+                ],
+                "link": "https://www.voicemod.net",
+                "logo": "https://www.voicemod.net/favicon.ico",
+                "searchKeywords": "IA vocale pour gamers. Mots-clés: autre, divers, fun, gaming, loisir, outils pratiques, utilitaires, voicemod",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1696,6 +2800,12 @@
                 "color": "text-white",
                 "tags": [
                     "Singing"
+                ],
+                "link": "https://www.plogue.com/products/alterego.html",
+                "logo": "https://www.plogue.com/favicon.ico",
+                "searchKeywords": "Synthèse de chant. Mots-clés: alterego, autre, divers, fun, loisir, outils pratiques, singing, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1705,6 +2815,12 @@
                 "color": "text-white",
                 "tags": [
                     "MusicProduction"
+                ],
+                "link": "https://dreamtonics.com/synthesizerv",
+                "logo": "https://dreamtonics.com/favicon.ico",
+                "searchKeywords": "Chanteurs virtuels réalistes. Mots-clés: audio, autre, avancé, b2b, chanson, divers, entreprise, expert, fun, loisir, musicproduction, musique, mélodie, outils pratiques, piste, professionnel, qualité, rythme, son, synthesizer v, travail, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1714,6 +2830,12 @@
                 "color": "text-white",
                 "tags": [
                     "SocialMusic"
+                ],
+                "link": "https://suno.com",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/suno.svg",
+                "searchKeywords": "Plateforme de création de hits. Mots-clés: audio, autre, chanson, community management, divers, facebook, fun, instagram, linkedin, loisir, musique, mélodie, outils pratiques, piste, rythme, réseaux, socialmusic, son, sunno.ai, tiktok, twitter, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1723,6 +2845,12 @@
                 "color": "text-white",
                 "tags": [
                     "MusicUpdate"
+                ],
+                "link": "https://suno.com",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/suno.svg",
+                "searchKeywords": "Générateur de chansons 4min+. Mots-clés: audio, autre, chanson, divers, fun, loisir, musicupdate, musique, mélodie, outils pratiques, piste, rythme, son, suno v3.5, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1732,6 +2860,12 @@
                 "color": "text-white",
                 "tags": [
                     "SFX"
+                ],
+                "link": "https://www.stableaudio.com",
+                "logo": "https://www.stableaudio.com/favicon.ico",
+                "searchKeywords": "Génération de sons par Stability. Mots-clés: autre, divers, fun, loisir, outils pratiques, sfx, stable audio, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1741,6 +2875,12 @@
                 "color": "text-white",
                 "tags": [
                     "OpenSource"
+                ],
+                "link": "https://audiocraft.metademolab.com",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/meta.svg",
+                "searchKeywords": "Outils audio de Meta. Mots-clés: audiocraft, autre, divers, fun, github, gratuit, libre, loisir, opensource, outils pratiques, ouvert, source, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1750,6 +2890,12 @@
                 "color": "text-white",
                 "tags": [
                     "ContentRepurposing"
+                ],
+                "link": "https://www.audiolabs.io",
+                "logo": "https://favicon.im/audiolabs.io",
+                "searchKeywords": "IA pour transformer les podcasts en shorts. Mots-clés: audiolabs, autre, contentrepurposing, divers, fun, loisir, outils pratiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1759,6 +2905,12 @@
                 "color": "text-white",
                 "tags": [
                     "YouTube"
+                ],
+                "link": "https://www.opus.pro",
+                "logo": "https://favicon.im/opus.pro",
+                "searchKeywords": "IA pour extraire des clips viraux. Mots-clés: autre, divers, fun, loisir, opusclip, outils pratiques, utilitaires, youtube",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1768,6 +2920,12 @@
                 "color": "text-white",
                 "tags": [
                     "SocialData"
+                ],
+                "link": "https://www.getmunch.com",
+                "logo": "https://www.getmunch.com/favicon.ico",
+                "searchKeywords": "Analyse de tendances vidéo. Mots-clés: analyse, autre, base de données, big data, chiffres, community management, divers, données, facebook, fun, instagram, linkedin, loisir, munch, outils pratiques, réseaux, socialdata, statistiques, tiktok, twitter, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1777,6 +2935,12 @@
                 "color": "text-white",
                 "tags": [
                     "VideoShorts"
+                ],
+                "link": "https://vidyo.ai",
+                "logo": "https://favicon.im/vidyo.ai",
+                "searchKeywords": "Shorts automatiques. Mots-clés: autre, caméra, clip, divers, film, fun, loisir, montage, outils pratiques, tiktok, utilitaires, videoshorts, vidyo.ai, vlog, youtube",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1786,6 +2950,12 @@
                 "color": "text-white",
                 "tags": [
                     "YouTubeEditor"
+                ],
+                "link": "https://www.gling.ai",
+                "logo": "https://favicon.im/gling.ai",
+                "searchKeywords": "Coupe les blancs des vidéos. Mots-clés: autre, divers, fun, gling, loisir, outils pratiques, utilitaires, youtubeeditor",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1795,6 +2965,12 @@
                 "color": "text-white",
                 "tags": [
                     "VFX"
+                ],
+                "link": "https://www.adobe.com/products/premiere/ai-features.html",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg",
+                "searchKeywords": "Remplissage génératif vidéo. Mots-clés: adobe premiere pro ai, autre, divers, fun, loisir, outils pratiques, utilitaires, vfx",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1804,6 +2980,12 @@
                 "color": "text-white",
                 "tags": [
                     "MotionGraphics"
+                ],
+                "link": "https://www.adobe.com/products/aftereffects/ai-features.html",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg",
+                "searchKeywords": "Roto Brush 3.0. Mots-clés: after effects ai, autre, dessin, divers, fun, illustration, image, loisir, motiongraphics, outils pratiques, utilitaires, vecteur, visuel",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1813,6 +2995,12 @@
                 "color": "text-white",
                 "tags": [
                     "ColorGrading"
+                ],
+                "link": "https://www.blackmagicdesign.com/products/davinciresolve",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/davinciresolve.svg",
+                "searchKeywords": "Magic Mask et isolation voix. Mots-clés: autre, colorgrading, davinci resolve ai, divers, fun, loisir, outils pratiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1822,6 +3010,12 @@
                 "color": "text-white",
                 "tags": [
                     "3DModeling"
+                ],
+                "link": "https://lumalabs.ai/genie",
+                "logo": "https://favicon.im/lumalabs.ai",
+                "searchKeywords": "Génération d'objets 3D. Mots-clés: 3dmodeling, autre, blend, divers, fun, loisir, luma genie, mesh, modélisation, outils pratiques, rendu, spatial, trois dimensions, utilitaires, volume",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1831,6 +3025,12 @@
                 "color": "text-white",
                 "tags": [
                     "Web3D"
+                ],
+                "link": "https://spline.design",
+                "logo": "https://favicon.im/spline.design",
+                "searchKeywords": "Design 3D par texte. Mots-clés: autre, blend, création web, divers, en ligne, fun, html, internet, loisir, mesh, modélisation, navigateur, outils pratiques, rendu, site, spatial, spline ai, trois dimensions, utilitaires, volume, web3d",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1840,6 +3040,12 @@
                 "color": "text-white",
                 "tags": [
                     "GameDev"
+                ],
+                "link": "https://www.meshy.ai",
+                "logo": "https://www.meshy.ai/favicon.ico",
+                "searchKeywords": "Générateur d'assets 3D pour jeux. Mots-clés: assets, autre, code, divers, divertissement, développement, fun, gamedev, gaming, github, ingénieur, jeu, joueur, logiciel, loisir, meshy, outils pratiques, programmation, unity, unreal, utilitaires, vidéo",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1850,6 +3056,12 @@
                 "tags": [
                     "Skybox",
                     "VR"
+                ],
+                "link": "https://www.blockadelabs.com",
+                "logo": "https://www.blockadelabs.com/favicon.ico",
+                "searchKeywords": "Générateur de mondes 360°. Mots-clés: autre, blockade labs, divers, fun, loisir, outils pratiques, skybox, utilitaires, vr",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1859,6 +3071,12 @@
                 "color": "text-white",
                 "tags": [
                     "Metaverse"
+                ],
+                "link": "https://skybox.blockadelabs.com",
+                "logo": "https://www.blockadelabs.com/favicon.ico",
+                "searchKeywords": "Environnements immersifs. Mots-clés: autre, divers, fun, loisir, metaverse, outils pratiques, skybox ai, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1868,6 +3086,12 @@
                 "color": "text-white",
                 "tags": [
                     "Gaming"
+                ],
+                "link": "https://inworld.ai",
+                "logo": "https://inworld.ai/favicon.ico",
+                "searchKeywords": "PNJ intelligents pour jeux. Mots-clés: autre, divers, fun, gaming, inworld ai, loisir, outils pratiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1877,6 +3101,12 @@
                 "color": "text-white",
                 "tags": [
                     "Realtime"
+                ],
+                "link": "https://convai.com",
+                "logo": "https://convai.com/favicon.ico",
+                "searchKeywords": "IA conversationnelle pour avatars 3D. Mots-clés: autre, convai, divers, fun, loisir, outils pratiques, realtime, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1886,6 +3116,12 @@
                 "color": "text-white",
                 "tags": [
                     "Avatars"
+                ],
+                "link": "https://readyplayer.me",
+                "logo": "https://favicon.im/readyplayer.me",
+                "searchKeywords": "Avatars avec IA. Mots-clés: autre, avatars, divers, fun, humain virtuel, loisir, outils pratiques, personnage, profil, ready player me, utilitaires, visage",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1895,6 +3131,12 @@
                 "color": "text-white",
                 "tags": [
                     "UnrealEngine"
+                ],
+                "link": "https://www.unrealengine.com/en-US/metahuman",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/unrealengine.svg",
+                "searchKeywords": "Humains numériques réalistes. Mots-clés: autre, divers, fun, loisir, metahuman (epic), outils pratiques, unrealengine, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1904,6 +3146,12 @@
                 "color": "text-white",
                 "tags": [
                     "Avatars"
+                ],
+                "link": "https://www.d-id.com",
+                "logo": "https://www.d-id.com/favicon.ico",
+                "searchKeywords": "Animation de visages. Mots-clés: autre, avatars, d-id, divers, fun, humain virtuel, loisir, outils pratiques, personnage, profil, utilitaires, visage",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1913,6 +3161,12 @@
                 "color": "text-white",
                 "tags": [
                     "Fun"
+                ],
+                "link": "https://reface.ai",
+                "logo": "https://reface.ai/favicon.ico",
+                "searchKeywords": "Face swap IA. Mots-clés: autre, blague, divers, divertissement, fun, humour, jeu, loisir, outils pratiques, reface, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1922,6 +3176,12 @@
                 "color": "text-white",
                 "tags": [
                     "MagicAvatars"
+                ],
+                "link": "https://prisma-ai.com/lensa",
+                "logo": "https://favicon.im/prisma-ai.com",
+                "searchKeywords": "Avatars artistiques. Mots-clés: autre, divers, fun, humain virtuel, lensa ai, loisir, magicavatars, outils pratiques, personnage, profil, utilitaires, visage",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1931,6 +3191,12 @@
                 "color": "text-white",
                 "tags": [
                     "Photography"
+                ],
+                "link": "https://remini.ai",
+                "logo": "https://remini.ai/favicon.ico",
+                "searchKeywords": "Restauration de vieilles photos. Mots-clés: appareil, autre, divers, détourage, fun, image, loisir, objectif, outils pratiques, photography, pixel, remini, retouche, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1940,6 +3206,12 @@
                 "color": "text-white",
                 "tags": [
                     "ImageHD"
+                ],
+                "link": "https://letsenhance.io",
+                "logo": "https://favicon.im/letsenhance.io",
+                "searchKeywords": "Upscaling d'image. Mots-clés: autre, divers, fun, imagehd, let's enhance, loisir, outils pratiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1949,6 +3221,12 @@
                 "color": "text-white",
                 "tags": [
                     "Tools"
+                ],
+                "link": "https://www.topazlabs.com/gigapixel-ai",
+                "logo": "https://favicon.im/topazlabs.com",
+                "searchKeywords": "Agrandissement sans perte. Mots-clés: autre, divers, fun, gigapixel ai, loisir, outils pratiques, tools, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1958,6 +3236,12 @@
                 "color": "text-white",
                 "tags": [
                     "Photography"
+                ],
+                "link": "https://www.topazlabs.com/topaz-photo-ai",
+                "logo": "https://favicon.im/topazlabs.com",
+                "searchKeywords": "Réduction de bruit et netteté. Mots-clés: appareil, autre, divers, détourage, fun, image, loisir, objectif, outils pratiques, photography, pixel, retouche, topaz photo ai, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1967,6 +3251,12 @@
                 "color": "text-white",
                 "tags": [
                     "GraphicDesign"
+                ],
+                "link": "https://www.fotor.com",
+                "logo": "https://www.fotor.com/favicon.ico",
+                "searchKeywords": "Outils graphiques complets. Mots-clés: autre, création, dessin, divers, esthétique, fotor ai, fun, graphicdesign, graphisme, illustration, image, interface, loisir, maquette, outils pratiques, ui, utilitaires, ux, vecteur, visuel",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1976,6 +3266,12 @@
                 "color": "text-white",
                 "tags": [
                     "Web"
+                ],
+                "link": "https://www.befunky.com",
+                "logo": "https://www.befunky.com/favicon.ico",
+                "searchKeywords": "Édition photo simplifiée. Mots-clés: autre, befunky ai, création web, divers, en ligne, fun, html, internet, loisir, navigateur, outils pratiques, site, utilitaires, web",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1985,6 +3281,12 @@
                 "color": "text-white",
                 "tags": [
                     "Business"
+                ],
+                "link": "https://vanceai.com",
+                "logo": "https://vanceai.com/favicon.ico",
+                "searchKeywords": "Traitement d'image pro. Mots-clés: autre, b2b, business, commerce, divers, entreprise, fun, loisir, outils pratiques, pme, pro, société, startup, utilitaires, vanceai, vente",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -1994,6 +3296,12 @@
                 "color": "text-white",
                 "tags": [
                     "Marketing"
+                ],
+                "link": "https://www.jasper.ai/art",
+                "logo": "https://favicon.im/jasper.ai",
+                "searchKeywords": "Générateur d'images pour copywriters. Mots-clés: autre, croissance, divers, fun, jasper art, loisir, marketing, outils pratiques, promotion, publicité, réseaux sociaux, seo, utilitaires, vente",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2003,6 +3311,12 @@
                 "color": "text-white",
                 "tags": [
                     "Reading"
+                ],
+                "link": "https://www.wordtune.com/read",
+                "logo": "https://favicon.im/wordtune.com",
+                "searchKeywords": "Résumé de longs articles. Mots-clés: autre, divers, fun, loisir, outils pratiques, reading, utilitaires, wordtune read",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2012,6 +3326,12 @@
                 "color": "text-white",
                 "tags": [
                     "Academic"
+                ],
+                "link": "https://www.genei.io",
+                "logo": "https://favicon.im/genei.io",
+                "searchKeywords": "Recherche et résumé pour étudiants. Mots-clés: academic, académique, autre, divers, fun, genei, loisir, outils pratiques, professeur, recherche, thèse, université, utilitaires, école, étudiant",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2021,6 +3341,12 @@
                 "color": "text-white",
                 "tags": [
                     "Research"
+                ],
+                "link": "https://www.zotero.org",
+                "logo": "https://www.zotero.org/favicon.ico",
+                "searchKeywords": "Gestion de biblio assistée. Mots-clés: académique, autre, divers, fun, google, loisir, moteur, outils pratiques, research, réponses, science, sources, trouver, utilitaires, web, zotero ai",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2030,6 +3356,12 @@
                 "color": "text-white",
                 "tags": [
                     "Editing"
+                ],
+                "link": "https://paperpal.com",
+                "logo": "https://paperpal.com/favicon.ico",
+                "searchKeywords": "Aide à l'écriture académique. Mots-clés: autre, divers, editing, fun, loisir, outils pratiques, paperpal, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2039,6 +3371,12 @@
                 "color": "text-white",
                 "tags": [
                     "Science"
+                ],
+                "link": "https://www.writefull.com",
+                "logo": "https://www.writefull.com/favicon.ico",
+                "searchKeywords": "IA pour chercheurs. Mots-clés: autre, divers, fun, loisir, outils pratiques, science, utilitaires, writefull",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2048,6 +3386,12 @@
                 "color": "text-white",
                 "tags": [
                     "Writing"
+                ],
+                "link": "https://www.trinka.ai",
+                "logo": "https://www.trinka.ai/favicon.ico",
+                "searchKeywords": "Correction spécialisée science. Mots-clés: auteur, autre, blog, copywriting, divers, fun, livre, loisir, outils pratiques, rédaction, trinka, utilitaires, writing, écriture",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2057,6 +3401,12 @@
                 "color": "text-white",
                 "tags": [
                     "Enterprise"
+                ],
+                "link": "https://www.cogram.com",
+                "logo": "https://favicon.im/cogram.com",
+                "searchKeywords": "Notes de réunion automatiques. Mots-clés: autre, cogram, divers, enterprise, fun, loisir, outils pratiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2066,6 +3416,12 @@
                 "color": "text-white",
                 "tags": [
                     "Sales"
+                ],
+                "link": "https://grain.com",
+                "logo": "https://favicon.im/grain.com",
+                "searchKeywords": "Capture et partage de moments vidéo. Mots-clés: autre, divers, fun, grain, loisir, outils pratiques, sales, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2075,6 +3431,12 @@
                 "color": "text-white",
                 "tags": [
                     "Meetings"
+                ],
+                "link": "https://meetgeek.ai",
+                "logo": "https://favicon.im/meetgeek.ai",
+                "searchKeywords": "Assistant de réunion. Mots-clés: agenda, autre, divers, fun, google meet, loisir, meetgeek, meetings, outils pratiques, réunion, teams, transcription, utilitaires, visio, zoom",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2084,6 +3446,12 @@
                 "color": "text-white",
                 "tags": [
                     "SalesIntelligence"
+                ],
+                "link": "https://www.avoma.com",
+                "logo": "https://favicon.im/avoma.com",
+                "searchKeywords": "IA pour cycles de vente. Mots-clés: autre, avoma, divers, fun, loisir, outils pratiques, salesintelligence, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2093,6 +3461,12 @@
                 "color": "text-white",
                 "tags": [
                     "BusinessIA"
+                ],
+                "link": "https://www.chorus.ai",
+                "logo": "https://favicon.im/chorus.ai",
+                "searchKeywords": "Analyse conversationnelle. Mots-clés: autre, b2b, businessia, chorus.ai, commerce, divers, entreprise, fun, loisir, outils pratiques, pme, pro, société, startup, utilitaires, vente",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2102,6 +3476,12 @@
                 "color": "text-white",
                 "tags": [
                     "SalesTech"
+                ],
+                "link": "https://www.gong.io",
+                "logo": "https://favicon.im/gong.io",
+                "searchKeywords": "Revenue intelligence. Mots-clés: autre, divers, fun, gong.io, informatique, innovation, loisir, outils pratiques, salestech, startup, technologie, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2111,6 +3491,12 @@
                 "color": "text-white",
                 "tags": [
                     "SocialMedia"
+                ],
+                "link": "https://www.lately.ai",
+                "logo": "https://favicon.im/lately.ai",
+                "searchKeywords": "IA pour recycler le contenu en posts. Mots-clés: actualités, autre, community management, contenu, divers, facebook, fun, instagram, journalisme, lately, linkedin, loisir, outils pratiques, presse, réseaux, socialmedia, tiktok, twitter, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2120,6 +3506,12 @@
                 "color": "text-white",
                 "tags": [
                     "SMM"
+                ],
+                "link": "https://www.ocoya.com",
+                "logo": "https://favicon.im/ocoya.com",
+                "searchKeywords": "Planification de contenu IA. Mots-clés: autre, divers, fun, loisir, ocoya, outils pratiques, smm, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2129,6 +3521,12 @@
                 "color": "text-white",
                 "tags": [
                     "SocialContent"
+                ],
+                "link": "https://predis.ai",
+                "logo": "https://favicon.im/predis.ai",
+                "searchKeywords": "Générateur de vidéos Instagram. Mots-clés: autre, community management, divers, facebook, fun, instagram, linkedin, loisir, outils pratiques, predis.ai, réseaux, socialcontent, tiktok, twitter, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2138,6 +3536,12 @@
                 "color": "text-white",
                 "tags": [
                     "Ads"
+                ],
+                "link": "https://www.adcreative.ai",
+                "logo": "https://favicon.im/adcreative.ai",
+                "searchKeywords": "Génération de bannières pub. Mots-clés: adcreative.ai, ads, autre, campagne, divers, facebook ads, fun, google ads, loisir, marketing, outils pratiques, promotion, publicité, sponsor, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2147,6 +3551,12 @@
                 "color": "text-white",
                 "tags": [
                     "DataAds"
+                ],
+                "link": "https://www.marpipe.com",
+                "logo": "https://favicon.im/marpipe.com",
+                "searchKeywords": "Test de créas publicitaires. Mots-clés: analyse, autre, base de données, big data, campagne, chiffres, dataads, divers, données, facebook ads, fun, google ads, loisir, marketing, marpipe, outils pratiques, promotion, publicité, sponsor, statistiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2156,6 +3566,12 @@
                 "color": "text-white",
                 "tags": [
                     "EcommerceAds"
+                ],
+                "link": "https://www.trypencil.com",
+                "logo": "https://favicon.im/trypencil.com",
+                "searchKeywords": "Créas publicitaires TikTok/FB. Mots-clés: achats, autre, boutique, campagne, divers, ecommerceads, facebook ads, fun, google ads, loisir, marketing, outils pratiques, panier, pencil ai, produits, promotion, publicité, shopify, sponsor, utilitaires, vente en ligne",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2165,6 +3581,12 @@
                 "color": "text-white",
                 "tags": [
                     "MarketingCloud"
+                ],
+                "link": "https://www.smartly.io",
+                "logo": "https://favicon.im/smartly.io",
+                "searchKeywords": "Optimisation publicitaire. Mots-clés: autre, croissance, divers, en ligne, fun, hébergement, internet, loisir, marketingcloud, outils pratiques, promotion, publicité, réseaux sociaux, saas, seo, serveur, smartly.io, utilitaires, vente",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2174,6 +3596,12 @@
                 "color": "text-white",
                 "tags": [
                     "Ecommerce"
+                ],
+                "link": "https://www.klaviyo.com",
+                "logo": "https://favicon.im/klaviyo.com",
+                "searchKeywords": "Email marketing intelligent. Mots-clés: achats, autre, boutique, divers, ecommerce, fun, klaviyo ai, loisir, outils pratiques, panier, produits, shopify, utilitaires, vente en ligne",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2183,6 +3611,12 @@
                 "color": "text-white",
                 "tags": [
                     "MarketingAutomation"
+                ],
+                "link": "https://mailchimp.com/features/ai-marketing/",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mailchimp.svg",
+                "searchKeywords": "Génération d'emails. Mots-clés: automatisation, autre, croissance, divers, fun, gain de temps, loisir, mailchimp intuit assist, marketingautomation, outils pratiques, processus, promotion, publicité, réseaux sociaux, seo, utilitaires, vente, workflow, zapier",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2192,6 +3626,12 @@
                 "color": "text-white",
                 "tags": [
                     "Chatbot"
+                ],
+                "link": "https://www.intercom.com/fin",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/intercom.svg",
+                "searchKeywords": "Service client par IA. Mots-clés: assistant, autre, chat, chatbot, conversation, divers, fun, ia, intercom fin, loisir, outils pratiques, robot, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2201,6 +3641,12 @@
                 "color": "text-white",
                 "tags": [
                     "Support"
+                ],
+                "link": "https://www.zendesk.com/ai",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/zendesk.svg",
+                "searchKeywords": "Support client automatisé. Mots-clés: autre, divers, fun, loisir, outils pratiques, support, utilitaires, zendesk ai",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2210,6 +3656,12 @@
                 "color": "text-white",
                 "tags": [
                     "CS"
+                ],
+                "link": "https://www.ada.cx",
+                "logo": "https://favicon.im/ada.cx",
+                "searchKeywords": "Automatisation du service client. Mots-clés: ada, autre, cs, divers, fun, loisir, outils pratiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2219,6 +3671,12 @@
                 "color": "text-white",
                 "tags": [
                     "SalesBot"
+                ],
+                "link": "https://www.drift.com",
+                "logo": "https://www.drift.com/favicon.ico",
+                "searchKeywords": "IA conversationnelle pour ventes. Mots-clés: assistant, autre, chat, conversation, divers, drift ai, fun, ia, loisir, outils pratiques, robot, salesbot, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2228,6 +3686,12 @@
                 "color": "text-white",
                 "tags": [
                     "SaaS"
+                ],
+                "link": "https://www.chatbase.co",
+                "logo": "https://www.chatbase.co/favicon.ico",
+                "searchKeywords": "Créer un chatbot sur ses données. Mots-clés: autre, chatbase, divers, fun, loisir, outils pratiques, saas, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2237,6 +3701,12 @@
                 "color": "text-white",
                 "tags": [
                     "WebTool"
+                ],
+                "link": "https://sitegpt.ai",
+                "logo": "https://sitegpt.ai/favicon.ico",
+                "searchKeywords": "IA pour site web. Mots-clés: autre, création web, divers, en ligne, fun, html, internet, loisir, navigateur, outils pratiques, site, sitegpt, utilitaires, webtool",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2246,6 +3716,12 @@
                 "color": "text-white",
                 "tags": [
                     "UI"
+                ],
+                "link": "https://www.typingmind.com",
+                "logo": "https://www.typingmind.com/favicon.ico",
+                "searchKeywords": "Interface pro pour ChatGPT/Claude. Mots-clés: autre, divers, fun, loisir, outils pratiques, typingmind, ui, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2255,6 +3731,12 @@
                 "color": "text-white",
                 "tags": [
                     "Tools"
+                ],
+                "link": "https://bettergpt.chat",
+                "logo": "https://favicon.im/bettergpt.chat",
+                "searchKeywords": "Client alternatif pour IA. Mots-clés: autre, bettergpt, divers, fun, loisir, outils pratiques, tools, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2264,6 +3746,12 @@
                 "color": "text-white",
                 "tags": [
                     "DevLib"
+                ],
+                "link": "https://www.langchain.com",
+                "logo": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/langchain.svg",
+                "searchKeywords": "Framework pour apps LLM. Mots-clés: autre, code, devlib, divers, développement, fun, github, ingénieur, langchain, logiciel, loisir, outils pratiques, programmation, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2273,6 +3761,12 @@
                 "color": "text-white",
                 "tags": [
                     "DataDev"
+                ],
+                "link": "https://www.llamaindex.ai",
+                "logo": "https://www.llamaindex.ai/favicon.ico",
+                "searchKeywords": "Framework d'indexation de données. Mots-clés: analyse, autre, base de données, big data, chiffres, code, datadev, divers, données, développement, fun, github, ingénieur, llamaindex, logiciel, loisir, outils pratiques, programmation, statistiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2282,6 +3776,12 @@
                 "color": "text-white",
                 "tags": [
                     "NoCodeDev"
+                ],
+                "link": "https://flowiseai.com",
+                "logo": "https://flowiseai.com/favicon.ico",
+                "searchKeywords": "Low-code pour LangChain. Mots-clés: application web, autre, code, création facile, css, divers, développement, flowise, fun, github, html, ingénieur, javascript, logiciel, loisir, nocodedev, outils pratiques, programmation, python, sans code, script, site, utilitaires, visuel",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2291,6 +3791,12 @@
                 "color": "text-white",
                 "tags": [
                     "Agents"
+                ],
+                "link": "https://www.langflow.org",
+                "logo": "https://www.langflow.org/favicon.ico",
+                "searchKeywords": "Interface visuelle pour agents IA. Mots-clés: agents, assistant autonome, autre, bot, divers, fun, langflow, loisir, outils pratiques, robot, tâche automatisée, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2300,6 +3806,12 @@
                 "color": "text-white",
                 "tags": [
                     "Research"
+                ],
+                "link": "https://github.com/yoheinakajima/babyagi",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
+                "searchKeywords": "Agent IA autonome. Mots-clés: académique, autre, babyagi, divers, fun, google, loisir, moteur, outils pratiques, research, réponses, science, sources, trouver, utilitaires, web",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2309,6 +3821,12 @@
                 "color": "text-white",
                 "tags": [
                     "Automation"
+                ],
+                "link": "https://github.com/Significant-Gravitas/AutoGPT",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
+                "searchKeywords": "Agent capable de réaliser des tâches. Mots-clés: autogpt, automation, automatisation, autre, divers, fun, gain de temps, loisir, outils pratiques, processus, utilitaires, workflow, zapier",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2318,6 +3836,12 @@
                 "color": "text-white",
                 "tags": [
                     "WebAgent"
+                ],
+                "link": "https://www.multion.ai",
+                "logo": "https://favicon.im/multion.ai",
+                "searchKeywords": "IA qui navigue sur le web pour vous. Mots-clés: assistant autonome, autre, bot, création web, divers, en ligne, fun, html, internet, loisir, multion, navigateur, outils pratiques, robot, site, tâche automatisée, utilitaires, webagent",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2327,6 +3851,12 @@
                 "color": "text-white",
                 "tags": [
                     "Writing"
+                ],
+                "link": "https://www.hyperwriteai.com",
+                "logo": "https://favicon.im/hyperwriteai.com",
+                "searchKeywords": "Assistant personnel. Mots-clés: auteur, autre, blog, copywriting, divers, fun, hyperwrite, livre, loisir, outils pratiques, rédaction, utilitaires, writing, écriture",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2336,6 +3866,12 @@
                 "color": "text-white",
                 "tags": [
                     "AgentsMarket"
+                ],
+                "link": "https://mindos.com",
+                "logo": "https://favicon.im/mindos.com",
+                "searchKeywords": "Place de marché d'agents IA. Mots-clés: agentsmarket, assistant autonome, autre, bot, croissance, divers, fun, loisir, mindos, outils pratiques, promotion, publicité, robot, réseaux sociaux, seo, tâche automatisée, utilitaires, vente",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2345,6 +3881,12 @@
                 "color": "text-white",
                 "tags": [
                     "Productivity"
+                ],
+                "link": "https://www.lindy.ai",
+                "logo": "https://favicon.im/lindy.ai",
+                "searchKeywords": "Assistant d'automatisation personnel. Mots-clés: autre, avancé, b2b, divers, efficacité, entreprise, expert, fun, gain de temps, lindy.ai, loisir, organisation, outils pratiques, productivity, professionnel, qualité, travail, tâches, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2354,6 +3896,12 @@
                 "color": "text-white",
                 "tags": [
                     "Chrome"
+                ],
+                "link": "https://monica.im",
+                "logo": "https://favicon.im/monica.im",
+                "searchKeywords": "Extension navigateur IA tout-en-un. Mots-clés: autre, chrome, divers, fun, loisir, monica, outils pratiques, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2363,6 +3911,12 @@
                 "color": "text-white",
                 "tags": [
                     "Extension"
+                ],
+                "link": "https://sider.ai",
+                "logo": "https://sider.ai/favicon.ico",
+                "searchKeywords": "Barre latérale IA pour browser. Mots-clés: autre, divers, extension, fun, loisir, outils pratiques, sider, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2372,6 +3926,12 @@
                 "color": "text-white",
                 "tags": [
                     "SocialExtension"
+                ],
+                "link": "https://www.getmerlin.in/",
+                "logo": "https://favicon.im/www.getmerlin.in",
+                "searchKeywords": "Assistant pour réseaux sociaux. Mots-clés: autre, community management, divers, facebook, fun, instagram, linkedin, loisir, merlin ai, outils pratiques, réseaux, socialextension, tiktok, twitter, utilitaires",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2381,6 +3941,12 @@
                 "color": "text-white",
                 "tags": [
                     "ReadingTool"
+                ],
+                "link": "https://ai.wise.one/conversation/new",
+                "logo": "https://ai.wise.one/logo/wise_one.png",
+                "searchKeywords": "Lecture assistée sur le web. Mots-clés: autre, divers, fun, loisir, outils pratiques, readingtool, utilitaires, wiseone",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2390,6 +3956,12 @@
                 "color": "text-white",
                 "tags": [
                     "VideoSummary"
+                ],
+                "link": "https://eightify.app",
+                "logo": "https://eightify.app/favicon.ico",
+                "searchKeywords": "Résumé de vidéos YouTube. Mots-clés: autre, caméra, clip, divers, eightify, film, fun, loisir, montage, outils pratiques, tiktok, utilitaires, videosummary, vlog, youtube",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2399,6 +3971,12 @@
                 "color": "text-white",
                 "tags": [
                     "Learning"
+                ],
+                "link": "https://www.summarize.tech",
+                "logo": "https://www.summarize.tech/favicon.ico",
+                "searchKeywords": "Résumé technique de vidéos. Mots-clés: apprentissage, autre, divers, formation, fun, learning, loisir, outils pratiques, professeur, pédagogie, summarize.tech, tutoriel, utilitaires, école",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2408,6 +3986,12 @@
                 "color": "text-white",
                 "tags": [
                     "VideoTools"
+                ],
+                "link": "https://www.veed.io/tools/auto-subtitle-generator",
+                "logo": "https://www.veed.io/favicon.ico",
+                "searchKeywords": "Sous-titrage automatique. Mots-clés: autre, caméra, clip, divers, film, fun, loisir, montage, outils pratiques, tiktok, utilitaires, veed subtitles, videotools, vlog, youtube",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             },
             {
@@ -2417,6 +4001,12 @@
                 "color": "text-white",
                 "tags": [
                     "ViralVideo"
+                ],
+                "link": "https://www.submagic.co",
+                "logo": "https://favicon.im/submagic.co",
+                "searchKeywords": "Sous-titres dynamiques pour shorts. Mots-clés: autre, caméra, clip, divers, film, fun, loisir, montage, outils pratiques, submagic, tiktok, utilitaires, viralvideo, vlog, youtube",
+                "prompts": [
+                    "Comment puis-je utiliser cet outil de manière plus efficace ?"
                 ]
             }
         ]
